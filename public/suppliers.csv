@@ -1,0 +1,915 @@
+NAME OF SUPPLIER,CATEGORY,Zone/Cluster,USFDA / EU GMP?\n(Yes / No / In Progress),Latitude (Reg. Office)\n(Decimal degrees),Longitude (Reg. Office)\n(Decimal degrees),KEY PRODUCTs
+Sun Pharma,API,Gujarat,Yes,22.3072,73.1812,Atorvastatin
+Dr. Reddy's,FDF,Telangana,Yes,17.385,78.4867,Omeprazole
+Cipla,Intermediates,Maharashtra,In Progress,18.9102,72.8093,Salbutamol
+Lupin,CDMO,Madhya Pradesh,No,22.7196,75.8577,Ethambutol
+Aurobindo Pharma,API,Andhra Pradesh,Yes,17.4483,78.3915,Sertraline
+MSN Laboratories Pvt Ltd,Admin / HQ / Support,Telangana,No,17.4585,78.3718,HQ
+MSN Laboratories Pvt Ltd,Admin / HQ / Support,Telangana,No,17.455,78.4483,HQ/Admin
+MSN Laboratories,Formulations,Telangana,Yes,17.551,78.2985,FDF
+MSN Laboratories,Formulations,Telangana,Yes,17.145,78.198,FDF (Oncology)
+MSN Laboratories,Formulations,Telangana,Yes,17.5285,78.236,FDF
+MSN Laboratories,Formulations,Telangana,Yes,17.2,78.25,FDF
+MSN Laboratories,Formulations,Telangana,Yes,17.18,78.22,FDF
+MSN Laboratories,Formulations,Telangana,Yes,17.1,78.2,FDF
+MSN Life Sciences,Generic API,Telangana,Yes,18.35,78.3,API
+MSN Pharmachem,Intermediates / Specialty Chemicals,Telangana,Yes,17.5305,78.24,API/Intermediates
+MSN Life Sciences,Generic API,Telangana,Yes,17.58,78.27,API
+MSN Life Sciences,Generic API,Telangana,Yes,17.9,78.1,API
+MSN Organics,Intermediates / Specialty Chemicals,Telangana,Yes,17.47,78.9,API/Intermediates
+Maithri Laboratories,Generic API,Telangana,Yes,17.54,78.27,API
+Maithri Laboratories,Generic API,Telangana,Yes,17.32,78.92,API
+MSN Laboratories,Generic API,Telangana,Yes,17.52,78.3,API
+MSN Laboratories,Generic API,Telangana,Yes,17.52,78.26,API (Oncology)
+APICHEM (MSN Subsidiary),CDMO / CRAMS,Telangana,Yes,17.62,78.9,API/CDMO
+MSN Laboratories,CDMO / CRAMS,Telangana,Yes,17.525,78.235,R&D/CDMO
+Laurus Labs Limited,Admin / HQ / Support,Andhra Pradesh,No,17.69,83.05,HQ
+Laurus Labs Limited,Generic API,Andhra Pradesh,Yes,17.688,83.045,API
+Laurus Labs Limited,Generic API,Andhra Pradesh,Yes,17.692,83.052,API
+Laurus Labs Limited,Generic API,Andhra Pradesh,Yes,17.695,83.06,API
+Laurus Labs Limited,Formulations,Andhra Pradesh,Yes,17.7,83.065,FDF
+Laurus Labs Limited,Formulations,Andhra Pradesh,Yes,17.705,83.07,FDF
+Laurus Labs Limited,Generic API,Andhra Pradesh,Yes,17.52,82.95,API
+Laurus Labs Limited,R&D / CRO,Telangana,No,17.574,78.639,R&D
+Laurus Labs Limited,Biotech / Fermentation,Telangana,Yes,17.59,78.6,BIO/CDMO
+Laurus Generics Pvt Ltd,Formulations,Andhra Pradesh,Yes,17.698,83.058,FDF
+Virupaksha Organics Ltd,Admin / HQ / Support,Telangana,No,17.432,78.407,HQ
+Virupaksha Organics Ltd,Generic API,Telangana,Yes,17.55,78.29,API
+Virupaksha Organics Ltd,Intermediates / Specialty Chemicals,Telangana,Yes,17.59,78.35,API / Intermediates
+Virupaksha Organics Ltd,Generic API,Telangana,Yes,17.53,78.23,API
+Virupaksha Organics Ltd,Intermediates / Specialty Chemicals,Telangana,Yes,17.52,78.45,Intermediates
+Virupaksha Organics Ltd,Generic API,Telangana,Yes,17.61,78.28,API
+Virupaksha Organics Ltd,R&D / CRO,Telangana,No,17.57,78.6,R&D
+Virupaksha Pharma Pvt Ltd,CDMO / CRAMS,Telangana,Yes,17.52,78.26,API/CDMO
+Virupaksha Life Sciences,Generic API,Telangana,Yes,17.62,78.09,API
+Virupaksha Chemicals Pvt Ltd,Intermediates / Specialty Chemicals,Telangana,Yes,17.9,78.1,Intermediates
+Tyche Industries Limited,Admin / HQ / Support,Telangana,No,17.426,78.45,HQ
+Tyche Industries Limited,Generic API,Telangana,Yes,17.55,78.29,API
+Tyche Industries Limited,Generic API,Telangana,Yes,17.53,78.23,API
+Tyche Industries Limited,Intermediates / Specialty Chemicals,Telangana,Yes,17.61,78.28,API / Intermediates
+Tyche Industries Limited,Generic API,Telangana,Yes,17.59,78.35,API
+Tyche Industries Limited,R&D / CRO,Telangana,No,17.5,78.4,R&D
+Micro Labs Limited,Admin / HQ / Support,Karnataka,No,12.983,77.584,HQ
+Micro Labs Limited,Formulations,Tamil Nadu,Yes,12.736,77.825,FDF
+Micro Labs Limited,Formulations,Tamil Nadu,Yes,12.74,77.82,FDF
+Micro Labs Limited,Formulations,Goa,Yes,15.35,73.93,FDF
+Micro Labs Limited,Formulations,Himachal Pradesh,Yes,30.95,76.8,FDF
+Micro Labs Limited,Formulations,Sikkim,Yes,27.18,88.53,FDF
+Micro Labs Limited,Generic API,Tamil Nadu,Yes,12.738,77.822,API
+Micro Labs Limited,Generic API,Karnataka,Yes,13.23,77.21,API
+Micro Labs Limited,R&D / CRO,Karnataka,No,13.03,77.52,R&D
+Micro Labs Limited,R&D / CRO,Tamil Nadu,No,12.735,77.823,R&D
+Virchow Group,Admin / HQ / Support,Telangana,No,17.413,78.448,HQ
+Virchow Laboratories Ltd,Generic API,Andhra Pradesh,Yes,17.69,83.05,API
+Virchow Laboratories Ltd,Generic API,Andhra Pradesh,Yes,17.52,82.95,API
+Virchow Laboratories Ltd,Formulations,Andhra Pradesh,Yes,17.695,83.06,FDF (Injectables)
+Andhra Organics Ltd,Generic API,Andhra Pradesh,Yes,17.7,83.055,API
+Covalent Laboratories Pvt Ltd,Generic API,Andhra Pradesh,Yes,17.688,83.045,API
+Covalent Laboratories Pvt Ltd,Intermediates / Specialty Chemicals,Andhra Pradesh,Yes,17.692,83.052,API / Intermediates
+Emmennar Pharma Pvt Ltd,Generic API,Andhra Pradesh,Yes,17.705,83.065,API
+Virchow Biotech Pvt Ltd,Biotech / Fermentation,Telangana,Yes,17.58,78.6,BIO/CDMO
+Virchow Laboratories Ltd,R&D / CRO,Andhra Pradesh,No,17.693,83.058,R&D
+Solara Active Pharma Sciences Ltd,Admin / HQ / Support,Tamil Nadu,No,12.84,80.06,HQ
+Solara Active Pharma Sciences Ltd,Generic API,Tamil Nadu,Yes,11.75,79.77,API
+Solara Active Pharma Sciences Ltd,Generic API,Puducherry,Yes,11.9,79.75,API
+Solara Active Pharma Sciences Ltd,Generic API,Karnataka,Yes,12.95,74.83,API
+Solara Active Pharma Sciences Ltd,R&D / CRO,Andhra Pradesh,No,17.695,83.06,R&D
+Tyche Industries Limited,Other,Telangana,Yes,17.4239,78.426,Manufacturing
+Micro Labs Limited,Other,Karnataka,Yes,12.9716,77.5946,Manufacturing
+Virchow Laboratories Limited,Other,Telangana,Yes,17.4875,78.4483,Manufacturing
+Virchow Drugs,Other,Telangana,Yes,17.4875,78.4483,Manufacturing
+Solara Active Pharma Sciences,Generic API,Maharashtra,Yes,19.0667,73.0167,Corporate/API
+Malladi Drugs and Pharmaceuticals Limited,Other,Tamil Nadu,Yes,13.0827,80.2707,Manufacturing
+Suven Pharmaceuticals Limited,Other,Telangana,Yes,17.4126,78.4482,Manufacturing
+Eurofins Advinus Limited,R&D / CRO,Karnataka,No,13.0285,77.5186,R&D
+Laxai Life Sciences,R&D / CRO,Telangana,No,17.601,78.576,R&D / Manufacturing
+Vasista Pharma,Other,Telangana,No,17.45,78.5,Manufacturing
+Sapala Organics Private Limited,Other,Telangana,No,17.4875,78.4483,Manufacturing
+Sambi Organics Limited,Other,Telangana,No,17.55,78.35,Manufacturing
+A R Life Sciences Private Limited,Other,Telangana,No,17.48,78.45,Manufacturing
+3xper Innoventure Limited,Other,Telangana,No,17.601,78.576,Manufacturing
+Aarti Pharmalabs Limited,Other,Maharashtra,Yes,19.85,72.7,Manufacturing
+Acharya Chemicals,Other,Gujarat,No,20.37,72.91,Manufacturing
+Piramal Pharma Solutions,Other,Maharashtra,Yes,18.998,72.8258,Manufacturing
+Survival Technologies,Other,Telangana,No,17.48,78.45,Manufacturing
+Allchem Lifescience Private Limited,Other,Telangana,No,17.4875,78.4483,Manufacturing
+Geno Pharmaceuticals Pvt Ltd,Formulations,Goa,No,15.59,73.81,Formulation (OSD / Liquid / Topical)
+Virchow Laboratories Ltd,Generic API,Telangana,Yes,17.4401,78.5562,API
+Virchow Laboratories Ltd,Generic API,Telangana,Yes,17.5483,78.351,API
+Virchow Laboratories Ltd,Formulations,Telangana,Yes,17.5176,78.4516,Formulation
+Virchow Laboratories Ltd,R&D / CRO,Telangana,No,17.441,78.555,R&D
+Andhra Organics Ltd,Generic API,Telangana,Yes,17.6072,78.3325,API
+Andhra Organics Ltd,Intermediates / Specialty Chemicals,Telangana,Yes,17.545,78.35,Intermediate
+Covalent Laboratories Pvt Ltd,Generic API,Telangana,Yes,17.5204,78.2865,API
+Covalent Laboratories Pvt Ltd,Generic API,Telangana,Yes,17.522,78.29,API
+Covalent Laboratories Pvt Ltd,R&D / CRO,Telangana,No,17.4948,78.3996,R&D
+Emmennar Pharma Pvt Ltd,Generic API,Telangana,Yes,17.5165,78.4502,API
+Emmennar Pharma Pvt Ltd,Generic API,Telangana,Yes,17.682,78.3115,API
+Emmennar Pharma Pvt Ltd,Intermediates / Specialty Chemicals,Telangana,Yes,17.608,78.333,Intermediate
+Solara Active Pharma Sciences Ltd,Other,Tamil Nadu,Yes,13.01,80.2209,Corporate
+Solara Active Pharma Sciences Ltd,Generic API,Maharashtra,Yes,19.2,73.18,API
+Solara Active Pharma Sciences Ltd,Other,Karnataka,Yes,12.988,77.585,Commercial
+Eurofins Advinus Ltd,R&D / CRO,Karnataka,No,13.0285,77.5197,CRO / R&D / Preclinical
+Eurofins Advinus Lifesciences Pvt Ltd,R&D / CRO,Karnataka,No,13.028,77.52,Corporate / R&D
+Eurofins Advinus Biopharma Services India Pvt Ltd,Biotech / Fermentation,Karnataka,Yes,12.7975,77.384,CDMO / Biologics
+Eurofins Advinus Ltd,R&D / CRO,Telangana,No,17.6075,78.615,CRO / R&D
+Eurofins BioPharma Product Testing India (Eurofins Group),Admin / HQ / Support,Karnataka,No,13.03,77.5205,Analytical / QC
+Laxai Life Sciences Pvt Ltd,Other,Telangana,Yes,17.4186,78.3476,Corporate
+Laxai Life Sciences Pvt Ltd,CDMO / CRAMS,Telangana,Yes,17.517,78.4535,API / CDMO
+Laxai Life Sciences Pvt Ltd,R&D / CRO,Telangana,No,17.6075,78.615,CRO / R&D
+A R Life Sciences Pvt Ltd,Other,Telangana,No,17.4186,78.3476,Corporate
+A R Life Sciences Pvt Ltd,Intermediates / Specialty Chemicals,Telangana,No,17.5175,78.4525,Intermediate / API
+A R Life Sciences Pvt Ltd,Intermediates / Specialty Chemicals,Telangana,No,17.517,78.453,Intermediate / API
+A R Life Sciences Pvt Ltd,Generic API,Andhra Pradesh,No,17.5505,82.8505,API
+A R Life Sciences Pvt Ltd,R&D / CRO,Telangana,No,17.5172,78.4528,R&D
+3xper Innoventure Limited,Other,Tamil Nadu,No,13.0105,80.2205,Corporate
+3xper Innoventure Limited,R&D / CRO,Tamil Nadu,No,12.9845,80.248,CRO / R&D
+3xper Innoventure Limited,CDMO / CRAMS,Andhra Pradesh,No,13.97,79.58,API / CDMO
+3xper Innoventure Limited,Other,Tamil Nadu,No,13.09,80.29,Corporate
+Aarti Pharmalabs Ltd,Other,Maharashtra,Yes,19.115,72.92,Corporate
+Aarti Pharmalabs Ltd,Other,Maharashtra,Yes,19.17,72.95,Corporate
+Aarti Pharmalabs Ltd,R&D / CRO,Maharashtra,No,19.2183,73.0878,API / R&D
+Aarti Pharmalabs Ltd,CDMO / CRAMS,Gujarat,Yes,20.37,72.91,Intermediate / CDMO
+Aarti Pharmalabs Ltd,Generic API,Maharashtra,Yes,19.85,72.7,API
+Aarti Pharmalabs Ltd,Generic API,Maharashtra,Yes,19.852,72.705,API (Steroid / Oncology)
+Aarti Pharmalabs Ltd,Generic API,Maharashtra,Yes,19.853,72.708,API / Xanthine
+Aarti Pharmalabs Ltd,Intermediates / Specialty Chemicals,Maharashtra,Yes,19.854,72.71,Intermediate / Specialty Chemicals
+Aarti Pharmalabs Ltd,Other,Maharashtra,Yes,19.851,72.704,Packaging
+Aarti Pharmalabs Ltd,CDMO / CRAMS,Gujarat,Yes,21.68,72.9,API / CDMO
+Acharya Chemicals (Acharya Group),Other,Maharashtra,No,19.2167,73.09,Corporate
+Acharya Chemicals,Intermediates / Specialty Chemicals,Maharashtra,No,19.203,73.19,API / Intermediate
+Herbert Brown Pharmaceutical & Research Laboratories (Group Company),R&D / CRO,Maharashtra,No,19.2175,73.088,API / R&D
+Shirdi Chemicals Pvt Ltd (Group Company),Intermediates / Specialty Chemicals,Maharashtra,No,19.1,73.02,Intermediate / Specialty Chemicals
+Dr. Acharya Laboratories Pvt Ltd (Group Company),Intermediates / Specialty Chemicals,Maharashtra,No,19.205,73.192,Intermediate / Specialty Chemicals
+Allchem Lifescience Ltd,CDMO / CRAMS,Gujarat,No,22.314,73.25,Intermediate / CDMO
+Allchem Lifescience Ltd,Intermediates / Specialty Chemicals,Gujarat,No,22.315,73.252,Intermediate / API
+Allchem Lifescience Ltd,R&D / CRO,Gujarat,No,22.3145,73.251,R&D / CRO
+Allchem Lifescience Ltd,Intermediates / Specialty Chemicals,Gujarat,No,22.316,73.253,Specialty / Intermediate
+Allchem Lifescience Ltd,Other,Gujarat,No,22.3135,73.2495,Support
+Malladi Drugs & Pharmaceuticals Ltd,Other,Tamil Nadu,Yes,13.0021,80.2005,Corporate
+Malladi Drugs & Pharmaceuticals Ltd,Other,Tamil Nadu,Yes,13.01,80.22,Corporate
+Malladi Drugs & Pharmaceuticals Ltd,Intermediates / Specialty Chemicals,Tamil Nadu,Yes,12.94,79.33,API / Intermediate
+Malladi Drugs & Pharmaceuticals Ltd,CDMO / CRAMS,Tamil Nadu,Yes,12.942,79.332,API / CDMO
+Malladi Drugs & Pharmaceuticals Ltd,Biotech / Fermentation,Andhra Pradesh,Yes,13.65,79.52,API / CDMO / Fermentation
+Malladi Drugs & Pharmaceuticals Ltd,R&D / CRO,Tamil Nadu,No,12.941,79.331,R&D
+Malladi Drugs & Pharmaceuticals Ltd,Other,Telangana,Yes,17.4239,78.407,Corporate
+Piramal Pharma Solutions,CDMO / CRAMS,Telangana,Yes,17.53,77.98,API / CDMO
+Piramal Pharma Solutions,R&D / CRO,Maharashtra,No,19.11,73.0,API / R&D
+Piramal Pharma Solutions,CDMO / CRAMS,Maharashtra,Yes,19.07,73.02,API / CDMO (Peptides)
+Piramal Pharma Solutions,Formulations,Madhya Pradesh,Yes,22.62,75.69,Formulation / CDMO
+Piramal Pharma Solutions,Formulations,Maharashtra,Yes,18.08,73.42,Formulation / Nutrition
+Piramal Pharma Solutions,Generic API,Tamil Nadu,Yes,13.25,80.32,API
+Piramal Pharma Solutions,CDMO / CRAMS,Gujarat,Yes,22.85,72.38,CRO / CDMO
+Piramal Pharma Solutions,R&D / CRO,Gujarat,No,22.851,72.381,CRO / R&D
+Piramal Pharma Solutions (Yapan Bio),Biotech / Fermentation,Telangana,Yes,17.6075,78.615,Biologics / CDMO
+Piramal Pharma Ltd,CDMO / CRAMS,Gujarat,Yes,21.68,72.9,API / CDMO
+Sambi Pharma Pvt Ltd,Other,Telangana,No,17.4186,78.3476,Corporate
+Sambi Pharma Pvt Ltd,R&D / CRO,Telangana,No,17.6075,78.615,CRO / R&D
+Sambi Pharma Pvt Ltd,CDMO / CRAMS,Telangana,No,17.45,78.58,API / CDMO / Intermediate
+Sambi Pharma Pvt Ltd,R&D / CRO,Telangana,No,17.44,78.56,R&D / Scale-up
+Sapala Organics Pvt Ltd,Other,Telangana,No,17.448,78.376,Corporate
+Sapala Organics Pvt Ltd,CDMO / CRAMS,Telangana,No,17.45,78.58,CRO / CDMO / Nucleic Acid Chemistry
+Srini Pharmaceuticals Pvt Ltd,Other,Telangana,No,17.4239,78.407,Corporate
+Srini Pharmaceuticals Pvt Ltd,Intermediates / Specialty Chemicals,Telangana,No,17.246,79.145,API / Intermediate
+Srini Pharmaceuticals Pvt Ltd,Intermediates / Specialty Chemicals,Andhra Pradesh,No,17.686,83.04,API / Intermediate
+Srini Pharmaceuticals Pvt Ltd,R&D / CRO,Telangana,No,17.2465,79.146,R&D
+Survival Technologies Limited,Other,Maharashtra,No,19.009,72.8258,Corporate
+Survival Technologies Limited,CDMO / CRAMS,Maharashtra,No,19.281,73.048,R&D / CRAMS
+Survival Technologies Limited,R&D / CRO,Gujarat,No,21.626,73.012,R&D / Process Development
+Survival Technologies Limited,Intermediates / Specialty Chemicals,Gujarat,No,21.6255,73.0115,Intermediate / Specialty Chemicals
+Survival Technologies Limited,CDMO / CRAMS,Gujarat,No,21.627,73.013,Intermediate / CDMO
+Survival Technologies Limited,Intermediates / Specialty Chemicals,Gujarat,No,20.28,72.89,Intermediate / Specialty Chemicals
+Survival Technologies Limited,CDMO / CRAMS,Maharashtra,No,19.282,73.049,Pilot / Scale-up / CDMO
+Suven Pharmaceuticals Ltd,Other,Telangana,Yes,17.448,78.376,Corporate
+Suven Pharmaceuticals Ltd,Other,Maharashtra,Yes,19.115,72.86,Corporate
+Suven Pharmaceuticals Ltd,Intermediates / Specialty Chemicals,Telangana,Yes,17.5175,78.4525,API / Intermediate
+Suven Pharmaceuticals Ltd,CDMO / CRAMS,Telangana,Yes,17.52,78.285,API / CDMO
+Suven Pharmaceuticals Ltd,Intermediates / Specialty Chemicals,Telangana,Yes,17.15,79.62,API / Intermediate
+Suven Pharmaceuticals Ltd,CDMO / CRAMS,Andhra Pradesh,Yes,17.686,83.04,API / CDMO
+Suven Pharmaceuticals Ltd,Formulations,Telangana,Yes,17.24,78.43,Formulation / CDMO
+Suven Pharmaceuticals Ltd,R&D / CRO,Telangana,No,17.4485,78.3765,R&D / CRO
+Vasista Life Sciences Pvt Ltd,Other,Telangana,No,17.494,78.399,Corporate
+Vasista Life Sciences Pvt Ltd,Intermediates / Specialty Chemicals,Telangana,No,17.5175,78.4525,Intermediate / Specialty Chemicals
+Vasista Pharma Chem Pvt Ltd,CDMO / CRAMS,Andhra Pradesh,No,17.55,82.85,API / Intermediate / CDMO
+Vasista Group,R&D / CRO,Telangana,No,17.495,78.4,R&D / CRO
+Zenfold Sustainable Technologies Pvt Ltd,Other,Karnataka,No,12.816,77.69,Corporate
+Zenfold Sustainable Technologies Pvt Ltd,CDMO / CRAMS,Telangana,No,17.52,78.26,Intermediate / API / CDMO
+Zenfold Sustainable Technologies Pvt Ltd,R&D / CRO,Karnataka,No,12.817,77.692,R&D / CRO
+Zenfold Sustainable Technologies Pvt Ltd,R&D / CRO,Telangana,No,17.521,78.262,R&D / Scale-up
+Aastrid Life Sciences Pvt Ltd,R&D / CRO,Maharashtra,No,19.119,73.033,Corporate / R&D / CRO
+Aastrid Life Sciences Pvt Ltd,CDMO / CRAMS,Maharashtra,No,18.083,73.42,Intermediate / CDMO
+Aastrid Life Sciences Pvt Ltd,CDMO / CRAMS,Maharashtra,No,18.085,73.422,Intermediate / CDMO
+Aastrid Life Sciences Pvt Ltd,R&D / CRO,Maharashtra,No,18.084,73.421,R&D / Scale-up
+Aastrid Life Sciences Pvt Ltd,R&D / CRO,Maharashtra,No,19.12,73.034,R&D / Kilo Lab
+Aastrid International Pvt Ltd (Group Entity),Intermediates / Specialty Chemicals,Maharashtra,No,19.21,73.18,Intermediate / Specialty Chemicals
+Adorn Chemicals Pvt Ltd,Intermediates / Specialty Chemicals,Maharashtra,No,19.8762,75.3433,Intermediate / Specialty Chemicals
+Aizant Drug Research Solutions Pvt Ltd,CDMO / CRAMS,Telangana,No,17.55,78.47,Corporate / CRO / CDMO / Clinical
+Aizant Drug Research Solutions Pvt Ltd,R&D / CRO,Telangana,No,17.551,78.471,CRO / Clinical Trials
+Aizant Drug Research Solutions Pvt Ltd,CDMO / CRAMS,Telangana,No,17.549,78.469,CDMO / CMO
+Aizant Drug Research Solutions Pvt Ltd,R&D / CRO,Andhra Pradesh,No,18.1,83.4,API R&D / CRO
+Alchem Synthon Pvt Ltd,Other,Telangana,No,17.4375,78.4483,Corporate
+Alchem Synthon Pvt Ltd,CDMO / CRAMS,Telangana,No,17.55,78.35,API / Intermediate / CDMO
+Alchem Synthon Pvt Ltd,Intermediates / Specialty Chemicals,Telangana,No,17.6,78.3,API / Intermediate
+Alchem Synthon Pvt Ltd,R&D / CRO,Telangana,No,17.438,78.449,R&D / CRO
+Alembic Limited,Other,Gujarat,Yes,22.33,73.18,Corporate
+Alembic Limited,Intermediates / Specialty Chemicals,Gujarat,Yes,22.52,73.48,API / Intermediate
+Alembic Limited,CDMO / CRAMS,Gujarat,Yes,22.25,73.13,API / CDMO
+Alembic Limited,Intermediates / Specialty Chemicals,Gujarat,Yes,22.331,73.181,Specialty Chemicals
+Alembic Limited,R&D / CRO,Gujarat,No,22.332,73.182,R&D / CRO
+Almelo Chemicals Pvt Ltd,Other,Telangana,No,17.44,78.56,Corporate
+Almelo Chemicals Pvt Ltd,CDMO / CRAMS,Telangana,No,17.45,78.58,Intermediate / Specialty Chemicals / CDMO
+Almelo Chemicals Pvt Ltd,CDMO / CRAMS,Telangana,No,17.52,78.285,Intermediate / API / CDMO
+Almelo Chemicals Pvt Ltd,R&D / CRO,Telangana,No,17.441,78.561,R&D / CRO
+Adorn Chemicals Pvt Ltd,Intermediates / Specialty Chemicals,Maharashtra,No,19.8762,75.3433,Intermediate / Specialty Chemicals
+Alembic Limited,Other,Gujarat,Yes,22.33,73.18,Corporate
+Alembic Limited,Intermediates / Specialty Chemicals,Gujarat,Yes,22.52,73.48,API / Intermediate
+Alembic Limited,CDMO / CRAMS,Gujarat,Yes,22.25,73.13,API / CDMO
+Alembic Limited,Intermediates / Specialty Chemicals,Gujarat,Yes,22.331,73.181,Specialty Chemicals
+Alembic Limited,R&D / CRO,Gujarat,No,22.332,73.182,R&D / CRO
+Ami Organics Ltd,Other,Gujarat,Yes,21.09,72.88,Corporate
+Ami Organics Ltd,Intermediates / Specialty Chemicals,Gujarat,Yes,21.091,72.881,Intermediate / Specialty Chemicals / API
+Ami Organics Ltd,CDMO / CRAMS,Gujarat,Yes,21.092,72.882,Intermediate / CDMO
+Ami Organics Ltd,CDMO / CRAMS,Gujarat,Yes,21.71,73.05,Intermediate / API / CDMO
+Ami Organics Ltd,Intermediates / Specialty Chemicals,Gujarat,Yes,21.626,73.012,Intermediate / Specialty Chemicals
+Ami Organics Ltd,R&D / CRO,Gujarat,No,21.093,72.883,R&D / CRO
+Amoli Organics Ltd,Other,Maharashtra,Yes,18.925,72.824,Corporate
+Amoli Organics Ltd,Intermediates / Specialty Chemicals,Maharashtra,Yes,19.209,73.187,Intermediate / Specialty Chemicals
+Amoli Organics Ltd,CDMO / CRAMS,Maharashtra,Yes,18.9,73.13,Intermediate / API / CDMO
+Amoli Organics Ltd,Intermediates / Specialty Chemicals,Maharashtra,Yes,19.8,72.75,Intermediate / Specialty Chemicals
+Amoli Organics Ltd,Intermediates / Specialty Chemicals,Gujarat,Yes,20.37,72.9,Intermediate / Specialty Chemicals
+Amoli Organics Ltd,R&D / CRO,Maharashtra,No,18.901,73.131,R&D / CRO
+Amsal Chem Pvt Ltd,Other,Maharashtra,Yes,19.155,72.837,Corporate
+Amsal Chem Pvt Ltd,Intermediates / Specialty Chemicals,Maharashtra,Yes,19.8,72.75,Intermediate / Specialty Chemicals
+Amsal Chem Pvt Ltd,Intermediates / Specialty Chemicals,Maharashtra,Yes,19.21,73.18,Intermediate / Specialty Chemicals
+Anupam Rasayan India Ltd,Other,Gujarat,Yes,21.17,72.83,Corporate
+Anupam Rasayan India Ltd,CDMO / CRAMS,Gujarat,Yes,21.09,72.88,Intermediate / Specialty Chemicals / CDMO
+Anupam Rasayan India Ltd,CDMO / CRAMS,Gujarat,Yes,21.091,72.881,Intermediate / CDMO
+Anupam Rasayan India Ltd,Intermediates / Specialty Chemicals,Gujarat,Yes,21.092,72.882,Intermediate / Specialty Chemicals
+Anupam Rasayan India Ltd,CDMO / CRAMS,Gujarat,Yes,21.093,72.883,Intermediate / CDMO
+Anupam Rasayan India Ltd,CDMO / CRAMS,Gujarat,Yes,21.71,73.05,Intermediate / API / CDMO
+Anupam Rasayan India Ltd,Intermediates / Specialty Chemicals,Gujarat,Yes,21.711,73.051,Intermediate / Specialty Chemicals
+Anupam Rasayan India Ltd,R&D / CRO,Gujarat,No,21.094,72.884,R&D / CRO
+Anupam Rasayan India Ltd,Other,Maharashtra,Yes,19.06,72.87,Corporate / BD
+Aurore Life Sciences Pvt Ltd,Other,Telangana,No,17.448,78.39,Corporate
+Aurore Life Sciences Pvt Ltd,CDMO / CRAMS,Telangana,No,17.5175,78.4525,API / CDMO
+Aurore Life Sciences Pvt Ltd,CDMO / CRAMS,Telangana,No,17.58,78.38,API / Intermediate / CDMO
+Aurore Life Sciences Pvt Ltd,R&D / CRO,Telangana,No,17.449,78.391,R&D / CRO
+Azakem Labs Pvt Ltd,Other,Telangana,No,17.432,78.407,Corporate
+Azakem Labs Pvt Ltd,Intermediates / Specialty Chemicals,Telangana,No,17.5175,78.4525,Intermediate / Specialty Chemicals
+Azakem Labs Pvt Ltd,CDMO / CRAMS,Telangana,No,17.55,78.35,Intermediate / CDMO
+Azakem Labs Pvt Ltd,R&D / CRO,Telangana,No,17.433,78.408,R&D / CRO
+Bhavesh Chem Labs Pvt Ltd,Other,Maharashtra,No,19.3,73.05,Corporate
+Bhavesh Chem Labs Pvt Ltd,Intermediates / Specialty Chemicals,Maharashtra,No,19.8,72.75,Intermediate / Specialty Chemicals
+Bhavesh Chem Labs Pvt Ltd,Intermediates / Specialty Chemicals,Maharashtra,No,19.802,72.752,Intermediate / Specialty Chemicals
+Bhisaj Pharma Pvt Ltd,Other,Telangana,No,17.43,78.41,Corporate
+Bhisaj Pharma Pvt Ltd,Intermediates / Specialty Chemicals,Telangana,No,17.5175,78.4525,Intermediate / API
+Bhisaj Pharma Pvt Ltd,CDMO / CRAMS,Telangana,No,17.52,78.285,API / CDMO
+Bhisaj Pharma Pvt Ltd,R&D / CRO,Telangana,No,17.431,78.411,R&D / CRO
+Biocon Limited,Biotech / Fermentation,Karnataka,Yes,12.839,77.677,Corporate / R&D / Biologics
+Biocon Limited,Biotech / Fermentation,Karnataka,Yes,12.84,77.678,Biologics / Biosimilars / CDMO
+Biocon Limited,Biotech / Fermentation,Karnataka,Yes,12.838,77.676,API / Fermentation
+Syngene International Limited,CDMO / CRAMS,Karnataka,Yes,12.816,77.69,CRO / CDMO / Research Services
+Biocon Limited,Biotech / Fermentation,Andhra Pradesh,Yes,17.686,83.05,API / Biologics (Expansion)
+Biocon Limited,Biotech / Fermentation,Karnataka,Yes,12.841,77.679,R&D / Biopharma
+Adorn Chemicals Pvt Ltd,Intermediates / Specialty Chemicals,Maharashtra,No,19.8762,75.3433,Intermediate / Specialty Chemicals
+Alembic Limited,Other,Gujarat,Yes,22.33,73.18,Corporate
+Alembic Limited,Intermediates / Specialty Chemicals,Gujarat,Yes,22.52,73.48,API / Intermediate
+Alembic Limited,CDMO / CRAMS,Gujarat,Yes,22.25,73.13,API / CDMO
+Alembic Limited,Intermediates / Specialty Chemicals,Gujarat,Yes,22.331,73.181,Specialty Chemicals
+Alembic Limited,R&D / CRO,Gujarat,No,22.332,73.182,R&D / CRO
+Amoli Organics Ltd,Other,Maharashtra,Yes,18.925,72.824,Corporate
+Amoli Organics Ltd,Intermediates / Specialty Chemicals,Maharashtra,Yes,19.209,73.187,Intermediate / Specialty Chemicals
+Amoli Organics Ltd,CDMO / CRAMS,Maharashtra,Yes,18.9,73.13,Intermediate / API / CDMO
+Amoli Organics Ltd,Intermediates / Specialty Chemicals,Maharashtra,Yes,19.8,72.75,Intermediate / Specialty Chemicals
+Amoli Organics Ltd,Intermediates / Specialty Chemicals,Gujarat,Yes,20.37,72.9,Intermediate / Specialty Chemicals
+Amoli Organics Ltd,R&D / CRO,Maharashtra,No,18.901,73.131,R&D / CRO
+Divi’s Laboratories Ltd,Other,Telangana,Yes,17.4239,78.4483,Corporate
+Divi’s Laboratories Ltd,CDMO / CRAMS,Telangana,Yes,17.255,78.9,API / Intermediate / Custom Synthesis
+Divi’s Laboratories Ltd,CDMO / CRAMS,Telangana,Yes,17.256,78.901,API / CDMO / CRAMS
+Divi’s Laboratories Ltd,CDMO / CRAMS,Andhra Pradesh,Yes,17.686,83.05,API / Nutraceuticals / Custom Synthesis
+Divi’s Laboratories Ltd,R&D / CRO,Telangana,No,17.4245,78.449,R&D / CRO
+Vasant Chemicals Pvt Ltd,Other,Telangana,No,17.426,78.45,Corporate
+Vasant Chemicals Pvt Ltd,Intermediates / Specialty Chemicals,Telangana,No,17.5175,78.4525,Intermediate / Specialty Chemicals
+Vasant Chemicals Pvt Ltd,CDMO / CRAMS,Telangana,No,17.55,78.35,Intermediate / CDMO
+Vasant Chemicals Pvt Ltd,R&D / CRO,Telangana,No,17.427,78.451,R&D / CRO
+Dr. Jagath Reddy's Heterocyclics Pvt Ltd,Other,Telangana,No,17.423,78.448,Corporate
+Dr. Jagath Reddy's Heterocyclics Pvt Ltd,Intermediates / Specialty Chemicals,Telangana,No,17.5175,78.4525,Intermediate / Specialty Chemicals
+Dr. Jagath Reddy's Heterocyclics Pvt Ltd,CDMO / CRAMS,Telangana,No,17.52,78.285,Intermediate / CDMO
+Dr. Jagath Reddy's Heterocyclics Pvt Ltd,R&D / CRO,Telangana,No,17.424,78.449,R&D / CRO
+Vital Synthetic Labs Pvt Ltd,Other,Telangana,No,17.437,78.448,Corporate
+Vital Synthetic Labs Pvt Ltd,Intermediates / Specialty Chemicals,Telangana,No,17.5175,78.4525,Intermediate / Specialty Chemicals
+Vital Synthetic Labs Pvt Ltd,CDMO / CRAMS,Telangana,No,17.52,78.285,Intermediate / CDMO
+Vital Synthetic Labs Pvt Ltd,R&D / CRO,Telangana,No,17.438,78.449,R&D / CRO
+Enanti Labs Pvt Ltd,Other,Telangana,No,17.4265,78.4505,Corporate
+Enanti Labs Pvt Ltd,Intermediates / Specialty Chemicals,Telangana,No,17.5175,78.4525,Intermediate / Specialty Chemicals
+Enanti Labs Pvt Ltd,CDMO / CRAMS,Telangana,No,17.52,78.285,Intermediate / CDMO
+Enanti Labs Pvt Ltd,R&D / CRO,Telangana,No,17.4275,78.4515,R&D / CRO
+Sri Vyjayanthi Labs Pvt Ltd,Other,Telangana,No,17.424,78.46,Corporate
+Sri Vyjayanthi Labs Pvt Ltd,Intermediates / Specialty Chemicals,Telangana,No,17.5175,78.4525,Intermediate / Specialty Chemicals
+Sri Vyjayanthi Labs Pvt Ltd,CDMO / CRAMS,Telangana,No,17.52,78.285,Intermediate / CDMO
+Sri Vyjayanthi Labs Pvt Ltd,R&D / CRO,Telangana,No,17.425,78.461,R&D / CRO
+Chiron Active Ingredients Pvt Ltd,Other,Telangana,No,17.432,78.407,Corporate
+Chiron Active Ingredients Pvt Ltd,Intermediates / Specialty Chemicals,Telangana,No,17.5175,78.4525,API / Intermediate
+Chiron Active Ingredients Pvt Ltd,CDMO / CRAMS,Telangana,No,17.52,78.285,API / CDMO
+Chiron Active Ingredients Pvt Ltd,R&D / CRO,Telangana,No,17.433,78.408,R&D / CRO
+Novopor Advanced Science Pvt Ltd,Other,Karnataka,No,12.718,77.455,Corporate
+Novopor Advanced Science Pvt Ltd,CDMO / CRAMS,Karnataka,No,12.719,77.456,Intermediate / CDMO
+Novopor Advanced Science Pvt Ltd,CDMO / CRAMS,Karnataka,No,12.72,77.457,CDMO / Advanced Intermediates
+Novopor Advanced Science Pvt Ltd,R&D / CRO,Karnataka,No,12.7185,77.4555,R&D / CRO
+Riddhi Lifescience Pvt Ltd,Other,Gujarat,No,23.039,72.53,Corporate
+Riddhi Lifescience Pvt Ltd,Intermediates / Specialty Chemicals,Gujarat,No,22.96,72.65,Intermediate / Specialty Chemicals
+Riddhi Lifescience Pvt Ltd,CDMO / CRAMS,Gujarat,No,23.07,72.67,Intermediate / CDMO
+Riddhi Lifescience Pvt Ltd,R&D / CRO,Gujarat,No,23.04,72.531,R&D / CRO
+Honour Synthesis Pvt Ltd (Honour Lab Group),Other,Telangana,No,17.443,78.377,Corporate
+Honour Lab Group,CDMO / CRAMS,Telangana,No,17.445,78.378,API / Intermediate / CDMO
+Honour Lab Group,CDMO / CRAMS,Telangana,No,17.446,78.379,API / CDMO
+Honour Lab Group,CDMO / CRAMS,Telangana,No,17.447,78.38,Intermediate / CDMO
+Honour Lab Group,CDMO / CRAMS,Andhra Pradesh,No,17.686,83.05,API / CDMO
+Honour Lab Group,Intermediates / Specialty Chemicals,Maharashtra,No,18.52,73.85,Intermediate / Specialty Chemicals
+Honour Lab Group,R&D / CRO,Telangana,No,17.444,78.376,R&D / CRO
+Nasense Labs Pvt Ltd,Other,Telangana,No,17.443,78.391,Corporate
+Nasense Labs Pvt Ltd,CDMO / CRAMS,Telangana,No,17.5175,78.4525,Intermediate / Specialty Chemicals / CDMO
+Nasense Labs Pvt Ltd,R&D / CRO,Telangana,No,17.518,78.453,R&D / CRO
+Sigachi Industries Ltd,Other,Telangana,Yes,17.496,78.36,Corporate
+Sigachi Industries Ltd,Intermediates / Specialty Chemicals,Telangana,Yes,17.52,78.285,Excipients / Intermediate / API
+Sigachi Industries Ltd,Intermediates / Specialty Chemicals,Gujarat,Yes,21.71,73.05,Excipients / Specialty Chemicals
+Sigachi Industries Ltd,CDMO / CRAMS,Gujarat,Yes,21.72,72.61,Excipients / CDMO / Export Unit
+Sigachi Industries Ltd,Intermediates / Specialty Chemicals,Telangana,Yes,17.48,78.2,Excipients / Food & Pharma Ingredients
+Trimax Biosciences Limited,Intermediates / Specialty Chemicals,Karnataka,Yes,16.2,77.35,API / Intermediate
+Sigachi Industries Ltd,R&D / CRO,Telangana,No,17.497,78.361,R&D / CRO
+Ciron Drugs & Pharmaceuticals Pvt Ltd,Other,Gujarat,No,23.07,72.67,Corporate
+Ciron Drugs & Pharmaceuticals Pvt Ltd,Formulations,Maharashtra,No,19.8,72.75,Formulation (OSD / Liquid / Topical)
+Ciron Drugs & Pharmaceuticals Pvt Ltd,Formulations,Maharashtra,No,19.801,72.751,Formulation (Injectables / Ointments)
+Ciron Drugs & Pharmaceuticals Pvt Ltd,Formulations,Maharashtra,No,19.802,72.752,Formulation / Export Unit
+Ciron Drugs & Pharmaceuticals Pvt Ltd,R&D / CRO,Maharashtra,No,19.803,72.753,R&D / Development
+Sainor Laboratories Pvt Ltd,Intermediates / Specialty Chemicals,Telangana,No,17.5175,78.4525,Organometallics / API Intermediates
+Sainor Laboratories Pvt Ltd,Formulations,Telangana,No,17.5185,78.4535,Semi-formulated Pellets / CDMO
+Sainor Laboratories Pvt Ltd,Intermediates / Specialty Chemicals,Andhra Pradesh,No,17.686,83.05,Fine Chemicals / Intermediates
+Sainor Laboratories Pvt Ltd,R&D / CRO,Telangana,No,17.518,78.453,R&D / CRO
+Aizant Drug Research Solutions Pvt. Ltd.,Admin / HQ / Support,Telangana,No,17.5516,78.4628,HQ
+Aizant Drug Research Solutions Pvt. Ltd.,CDMO / CRAMS,Telangana,No,17.5516,78.4628,CDMO / R&D / Manufacturing
+Aizant Drug Research Solutions Pvt. Ltd.,Formulations,Telangana,No,17.552,78.4635,FDF / CMO
+Aizant Drug Research Solutions Pvt. Ltd.,R&D / CRO,Telangana,No,17.5516,78.4628,Clinical (Phase I–IV)
+Aizant Drug Research Solutions Pvt. Ltd.,R&D / CRO,Telangana,No,17.5525,78.463,R&D
+Aizant Drug Research Solutions Pvt. Ltd.,R&D / CRO,Andhra Pradesh,No,18.106,83.417,API R&D
+Lewens Labs Pvt Ltd,Intermediates / Specialty Chemicals,Gujarat,No,21.7,72.61,API / Specialty Chemicals / Intermediates
+Lewens Labs Pvt Ltd,CDMO / CRAMS,Gujarat,No,21.701,72.611,API / CDMO (Small scale)
+Lewens Labs Pvt Ltd,R&D / CRO,Gujarat,No,21.702,72.612,R&D / Process Chemistry
+Aurore Life Sciences Pvt Ltd,Other,Telangana,No,17.443,78.391,Corporate
+Aurore Life Sciences Pvt Ltd,Intermediates / Specialty Chemicals,Telangana,No,17.5175,78.4525,API / Intermediates
+Aurore Life Sciences Pvt Ltd,CDMO / CRAMS,Telangana,No,17.545,78.5,API / CDMO
+Aurore Life Sciences Pvt Ltd,Intermediates / Specialty Chemicals,Telangana,No,17.546,78.501,API / Intermediates
+Aurore Life Sciences Pvt Ltd,R&D / CRO,Telangana,No,17.5455,78.5005,Process R&D / Scale-up
+Aurore Life Sciences Pvt Ltd,Intermediates / Specialty Chemicals,Telangana,No,17.518,78.453,Advanced Intermediates
+SMS Lifesciences India Ltd,Other,Telangana,No,17.4235,78.409,Corporate
+SMS Lifesciences India Ltd,Intermediates / Specialty Chemicals,Telangana,No,17.545,78.5,API / Intermediates
+SMS Lifesciences India Ltd,Intermediates / Specialty Chemicals,Telangana,No,17.5175,78.4525,Intermediates / API Support
+SMS Lifesciences India Ltd,CDMO / CRAMS,Telangana,No,17.48,78.45,API / CDMO
+Mahi Drugs Pvt Ltd (Subsidiary),Generic API,Andhra Pradesh,No,17.686,83.05,API / Specialty APIs
+SMS Lifesciences India Ltd,R&D / CRO,Telangana,No,17.424,78.4095,Process R&D / Analytical / Scale-up
+Nosch Labs Pvt Ltd,Other,Telangana,Yes,17.443,78.391,Corporate
+Nosch Labs Pvt Ltd,Other,Telangana,Yes,17.485,78.395,Corporate
+Nosch Labs Pvt Ltd,Formulations,Telangana,Yes,17.495,78.41,Semi-finished Formulations / Pellets
+Nosch Labs Pvt Ltd,Generic API,Telangana,Yes,17.545,78.5,API Manufacturing
+Nosch Labs Pvt Ltd,Intermediates / Specialty Chemicals,Telangana,Yes,17.352,78.948,API / Intermediates
+Nosch Labs Pvt Ltd,Intermediates / Specialty Chemicals,Telangana,Yes,17.235,79.02,API / Intermediates
+Nosch Labs Pvt Ltd,R&D / CRO,Telangana,No,17.444,78.392,R&D / Process Chemistry / Analytical
+Optimus Drugs Pvt Ltd (Sekhmet Platform),Other,Telangana,No,17.443,78.391,Corporate
+Optimus Drugs Pvt Ltd,CDMO / CRAMS,Telangana,No,17.35,78.78,API / Intermediates / CDMO
+Optimus Drugs Pvt Ltd,Intermediates / Specialty Chemicals,Telangana,No,17.32,78.72,API / Intermediates
+Optimus Drugs Pvt Ltd,Intermediates / Specialty Chemicals,Andhra Pradesh,No,17.686,83.05,API / Intermediates
+Optimus Drugs Pvt Ltd,Formulations,Telangana,No,17.52,78.285,Formulation (FDF)
+Anjan Drug Pvt Ltd (Sekhmet Platform),Intermediates / Specialty Chemicals,Tamil Nadu,No,11.75,79.75,API / Intermediates
+Anjan Drug Pvt Ltd,Intermediates / Specialty Chemicals,Tamil Nadu,No,13.13,80.28,API / Specialty Chemicals
+Integrated R&D (Optimus + Anjan),R&D / CRO,Telangana,No,17.444,78.392,R&D / Process Chemistry / Tech Transfer
+Maithri Drugs Pvt Ltd,Other,Telangana,No,17.443,78.391,Corporate
+Maithri Drugs Pvt Ltd,Intermediates / Specialty Chemicals,Telangana,No,17.5175,78.4525,API / Intermediates
+Maithri Drugs Pvt Ltd,CDMO / CRAMS,Telangana,No,17.545,78.5,API / CDMO
+Maithri Drugs Pvt Ltd,Intermediates / Specialty Chemicals,Telangana,No,17.52,78.285,API / Intermediates
+Maithri Drugs Pvt Ltd,Intermediates / Specialty Chemicals,Andhra Pradesh,No,17.686,83.05,API / Intermediates
+Maithri Drugs Pvt Ltd,R&D / CRO,Telangana,No,17.444,78.392,R&D / Process Chemistry / Scale-up
+Teadus Pharma Pvt Ltd,Other,Telangana,No,17.47,78.36,Corporate
+Teadus Pharma Pvt Ltd,R&D / CRO,Telangana,No,17.456,78.428,R&D / CRO / Discovery
+Teadus Pharma Pvt Ltd,CDMO / CRAMS,Andhra Pradesh,No,14.43,79.97,API / Intermediates / CDMO
+Teadus Pharma Pvt Ltd,Intermediates / Specialty Chemicals,Andhra Pradesh,No,17.686,83.05,API / Intermediates
+PI Health Sciences Ltd,R&D / CRO,Telangana,No,17.558,78.838,CRO / Discovery / R&D
+PI Health Sciences Ltd,R&D / CRO,Telangana,No,17.559,78.839,CRO / Discovery Biology & Chemistry
+PI Health Sciences Ltd,R&D / CRO,Rajasthan,No,26.78,75.84,API / KSM / Development / Scale-up
+PI Health Sciences Ltd,R&D / CRO,Rajasthan,No,24.585,73.712,Process R&D / Flow Chemistry / Biocatalysis
+PI Health Sciences Ltd,Other,Maharashtra,Yes,19.1136,72.8697,Corporate / Business Development
+Lupin Manufacturing Solutions Ltd,Other,Maharashtra,Yes,19.064,72.88,Corporate
+Lupin Manufacturing Solutions Ltd,CDMO / CRAMS,Gujarat,Yes,22.24,73.08,API / CDMO / Intermediates
+Lupin Manufacturing Solutions Ltd,CDMO / CRAMS,Andhra Pradesh,Yes,17.686,83.05,API / CDMO / HPAPI
+Lupin Manufacturing Solutions Ltd,Intermediates / Specialty Chemicals,Gujarat,Yes,21.62,73.01,API / Intermediates
+Lupin Manufacturing Solutions Ltd,Formulations,Madhya Pradesh,Yes,23.107,77.524,API / Cephalosporins / Formulations
+Lupin Manufacturing Solutions Ltd,Biotech / Fermentation,Maharashtra,Yes,19.81,72.75,Fermentation / Synthetic APIs
+Lupin Manufacturing Solutions Ltd,R&D / CRO,Maharashtra,No,18.52,73.77,R&D / Process Development
+Lupin Manufacturing Solutions Ltd,Formulations,Maharashtra,Yes,21.093,79.057,OSD / Injectables
+CiventiChem (India) Pvt Ltd,CDMO / CRAMS,Telangana,No,17.5165,78.4505,CRAMS / CDMO / API / Intermediates
+CiventiChem (India) Pvt Ltd,Intermediates / Specialty Chemicals,Telangana,No,17.517,78.451,API / Intermediates / RSM
+CiventiChem (India) Pvt Ltd,Intermediates / Specialty Chemicals,Telangana,No,17.234,79.02,API / Specialty Chemicals
+CiventiChem (India) Pvt Ltd,R&D / CRO,Telangana,No,17.5175,78.452,Process R&D / Scale-up / Kilo Lab
+Innovassynth Technologies (India) Ltd,CDMO / CRAMS,Maharashtra,No,18.787,73.345,CDMO / Specialty Chemicals / Nucleosides
+Innovassynth Technologies (India) Ltd,Intermediates / Specialty Chemicals,Maharashtra,No,18.7865,73.3445,Nucleosides / Organometallics / Specialty Chemicals
+Innovassynth Technologies (India) Ltd,CDMO / CRAMS,Maharashtra,No,18.7872,73.3452,CDMO / Fine & Specialty Chemicals
+Innovassynth Technologies (India) Ltd,Intermediates / Specialty Chemicals,Maharashtra,No,18.7875,73.3455,Nucleosides / Phosphoramidites / Amidites
+Innovassynth Technologies (India) Ltd,R&D / CRO,Maharashtra,No,18.7873,73.3451,R&D / Process Chemistry / Scale-up
+Innovassynth Technologies (India) Ltd,Other,Maharashtra,No,18.594,73.699,Corporate / Business Development
+Bhisaj Pharmaceuticals Pvt Ltd,CDMO / CRAMS,Maharashtra,No,18.5196,73.776,API / CRAMS / CDMO
+Bhisaj Pharmaceuticals Pvt Ltd,R&D / CRO,Maharashtra,No,18.544,73.807,R&D / Medicinal Chemistry / Process R&D
+Bhisaj Pharmaceuticals Pvt Ltd,R&D / CRO,Maharashtra,No,18.466,73.828,Process R&D / Analytical / Kilo Lab
+Bhisaj Pharmaceuticals Pvt Ltd,R&D / CRO,Maharashtra,No,18.529,73.59,API / Scale-up / GMP Pilot
+Elkay Chemicals Pvt Ltd,Intermediates / Specialty Chemicals,Maharashtra,No,18.561,73.813,Specialty Chemicals / Silicones
+Elkay Chemicals Pvt Ltd,Intermediates / Specialty Chemicals,Maharashtra,No,18.623,73.845,Silicones / Emulsions / Specialty Fluids
+Elkay Chemicals Pvt Ltd,Intermediates / Specialty Chemicals,Maharashtra,No,17.15,73.3,Specialty Chemical Manufacturing
+Elkay Chemicals Pvt Ltd,R&D / CRO,Maharashtra,No,18.6235,73.8455,R&D / Polymer Chemistry / Silicone Research
+Elkay Chemicals Pvt Ltd,Intermediates / Specialty Chemicals,Maharashtra,No,18.624,73.846,Silicone Fluids / Industrial Emulsions
+Maple Biotech Pvt Ltd,Intermediates / Specialty Chemicals,Maharashtra,No,18.623,73.845,Excipients / Specialty Chemicals / Pharma Ingredients
+Maple Biotech Pvt Ltd,Intermediates / Specialty Chemicals,Maharashtra,No,18.6232,73.8452,Pharmaceutical Excipients / Cellulose Derivatives
+Maple Biotech Pvt Ltd,Other,Maharashtra,No,18.6235,73.8455,Cellulose / MCC / Starch Derivatives
+Maple Biotech Pvt Ltd,Intermediates / Specialty Chemicals,Maharashtra,No,18.6238,73.8458,Pharma Excipients / Food Ingredients
+Maple Biotech Pvt Ltd,R&D / CRO,Maharashtra,No,18.624,73.846,R&D / Excipient Development / Polymer Chemistry
+Vision Drugs Pvt Ltd,CDMO / CRAMS,Telangana,No,17.4156,78.4347,API / CDMO / Intermediates
+Vision Drugs Pvt Ltd,Intermediates / Specialty Chemicals,Telangana,No,17.235,78.922,API / Intermediates
+Vision Drugs Pvt Ltd,Intermediates / Specialty Chemicals,Andhra Pradesh,No,17.1,82.18,API / Advanced Intermediates
+Vision Drugs Pvt Ltd,Generic API,Telangana,No,17.35,78.78,API / Bulk Drugs
+Vision Drugs Pvt Ltd,R&D / CRO,Telangana,No,17.456,78.428,R&D / Process Chemistry / Scale-up
+Synergene Active Ingredients Pvt Ltd,CDMO / CRAMS,Telangana,No,17.415,78.434,API / CDMO / Intermediates
+Synergene Active Ingredients Pvt Ltd,Intermediates / Specialty Chemicals,Telangana,No,17.5175,78.4525,API / Intermediates
+Synergene Active Ingredients Pvt Ltd,Generic API,Andhra Pradesh,No,17.686,83.05,API / GMP Manufacturing
+Synergene Active Ingredients Pvt Ltd,Intermediates / Specialty Chemicals,Andhra Pradesh,No,17.704,83.247,API / Intermediates
+Synergene Active Ingredients Pvt Ltd,Generic API,India,No,17.52,78.45,API / Specialty APIs
+Synergene Active Ingredients Pvt Ltd,R&D / CRO,Telangana,No,17.517,78.4515,R&D / Process Chemistry / Scale-up
+Aastrid Life Sciences Pvt Ltd,CDMO / CRAMS,Maharashtra,No,19.108,73.023,API / CDMO / CRAMS / Specialty Chemicals
+Aastrid Life Sciences Pvt Ltd,R&D / CRO,Maharashtra,No,19.1085,73.0235,R&D / Process Chemistry / CRO
+Aastrid Life Sciences Pvt Ltd,Intermediates / Specialty Chemicals,Maharashtra,No,18.082,73.423,API / Intermediates / Specialty Chemicals
+Aastrid Life Sciences Pvt Ltd,Intermediates / Specialty Chemicals,Maharashtra,No,18.083,73.424,API / Intermediates
+Shakti Lifescience Pvt Ltd,Generic API,Maharashtra,No,19.1646,72.837,API / Steroids / Hormones Manufacturer
+Shakti Lifescience Pvt Ltd,Generic API,Maharashtra,No,19.804,72.744,API / Hormones / Steroids
+Shakti Lifescience Pvt Ltd,Generic API,Maharashtra,No,19.805,72.745,Cortico-Steroids / API
+Shakti Lifescience Pvt Ltd,Generic API,Maharashtra,No,19.8045,72.7445,Hormone / Steroid APIs
+Shakti Lifescience Pvt Ltd,Generic API,Maharashtra,No,19.8047,72.7447,Cortico-Steroid APIs
+Shakti Lifescience Pvt Ltd,R&D / CRO,Maharashtra,No,19.8042,72.7442,R&D / Process Chemistry / Steroid Synthesis
+Jubilant Biosys Ltd,CDMO / CRAMS,Uttar Pradesh,Yes,28.5706,77.326,CRDMO / Drug Discovery / CDMO
+Jubilant Biosys Ltd,R&D / CRO,Karnataka,No,12.9352,77.691,Drug Discovery / Biology / Chemistry / DMPK
+Jubilant Biosys Ltd,R&D / CRO,Uttar Pradesh,No,28.4744,77.504,Medicinal Chemistry / Lead Optimization
+Jubilant Biosys Ltd,R&D / CRO,Uttar Pradesh,No,28.5973,77.368,Preclinical / Scale-up / Early Chemistry
+Jubilant Biosys Ltd,Intermediates / Specialty Chemicals,Karnataka,Yes,12.119,76.683,API / Intermediates / GMP Manufacturing
+Melody Healthcare Pvt Ltd,CDMO / CRAMS,Maharashtra,No,18.925,72.823,API / CDMO / Intermediates
+Melody Healthcare Pvt Ltd,Intermediates / Specialty Chemicals,Maharashtra,No,19.804,72.744,API / Intermediates / GMP Manufacturing
+Melody Healthcare Pvt Ltd,Generic API,Maharashtra,No,19.805,72.745,API / Respiratory & Cardiovascular APIs
+Melody Healthcare Pvt Ltd,Formulations,Maharashtra,No,19.8045,72.7445,HPAPI / Sterile & Complex Chemistry APIs
+Melody Healthcare Pvt Ltd,R&D / CRO,Maharashtra,No,19.8042,72.7442,R&D / Particle Engineering / Process Chemistry
+Melody Healthcare Pvt Ltd,R&D / CRO,Maharashtra,No,19.8048,72.7448,API Scale-up / Technology Transfer
+Supriya Lifescience Ltd,Formulations,Maharashtra,Yes,19.161,72.852,API / CDMO / FDF Manufacturer
+Supriya Lifescience Ltd,CDMO / CRAMS,Maharashtra,Yes,17.712,73.463,API / Intermediates / CDMO
+Supriya Lifescience Ltd,Formulations,Maharashtra,Yes,19.205,73.173,FDF / Finished Dosage Forms
+Supriya Lifescience Ltd,CDMO / CRAMS,Maharashtra,Yes,17.7125,73.4635,R&D / Process Chemistry / CDMO
+Supriya Lifescience Ltd,Admin / HQ / Support,Maharashtra,No,17.7123,73.4632,Quality Control / Analytical / Microbiology
+Cipla Limited,Formulations,Maharashtra,Yes,19.0056,72.8258,Global Pharma / API / Formulations
+Cipla Limited,Formulations,Maharashtra,Yes,18.394,74.538,API / Formulations (OSD)
+Cipla Limited,Formulations,Maharashtra,Yes,18.863,73.22,API / Formulations
+Cipla Limited,Formulations,Maharashtra,Yes,18.864,73.221,Formulations / Respiratory Products
+Cipla Limited,Formulations,Himachal Pradesh,Yes,30.954,76.791,Formulations / Tablets / Capsules
+Cipla Limited,Formulations,Goa,Yes,15.349,74.124,API + Formulations + Sterile Products
+Cipla Limited,Formulations,Sikkim,Yes,27.177,88.533,Oral Solid Dosage (OSD)
+Cipla Limited,Formulations,Madhya Pradesh,Yes,22.608,75.672,Formulations / OSD
+Cipla Limited,Formulations,Maharashtra,Yes,19.115,72.927,Drug Discovery / Formulation R&D
+Mana Pharma Pvt Ltd,CDMO / CRAMS,Telangana,No,17.43,78.395,API / CDMO / CRAMS / Intermediates
+Mana Pharma Pvt Ltd,R&D / CRO,Telangana,No,17.504,78.38,R&D / Process Chemistry / Drug Development
+Mana Pharma Pvt Ltd,Intermediates / Specialty Chemicals,Telangana,No,17.45,78.4,API / KSM / Intermediates
+Mana Pharma Pvt Ltd,CDMO / CRAMS,India,No,17.52,78.45,CDMO / CRAMS / API Manufacturing
+Scimplify Technologies Pvt Ltd,CDMO / CRAMS,Karnataka,No,12.9108,77.6411,Specialty Chemicals / CDMO / Platform Company
+Scimplify Technologies Pvt Ltd,R&D / CRO,Karnataka,No,12.911,77.6415,R&D / Route Scouting / Chemical Development
+Scimplify Technologies Pvt Ltd,CDMO / CRAMS,Karnataka,No,12.9112,77.6418,Process R&D / Feasibility / Custom Synthesis
+Bhavesh Chem Labs,Intermediates / Specialty Chemicals,Telangana,No,17.5053,78.5015,Specialty Chemicals / API Intermediates / Fine Chemicals
+Bhavesh Chem Labs,Intermediates / Specialty Chemicals,Telangana,No,17.5053,78.5015,Fine Chemicals / API Intermediates
+Bhavesh Chem Labs,R&D / CRO,Telangana,No,17.5053,78.5015,R&D / Route Development / Impurity Profiling
+Bhavesh Chem Labs,CDMO / CRAMS,Telangana,No,17.5053,78.5015,API Intermediates / Fine Chemicals / Custom Synthesis
+Bhavesh Chem Labs,Intermediates / Specialty Chemicals,Telangana,No,17.5053,78.5015,API Intermediates / Specialty Chemicals Trading
+Viyash Life Sciences Pvt Ltd,CDMO / CRAMS,Telangana,No,17.432,78.391,API / Intermediates / CRAMS / Integrated Pharma
+Viyash Life Sciences Pvt Ltd,Intermediates / Specialty Chemicals,Telangana,No,17.5175,78.4525,API / Intermediates / GMP Manufacturing
+Viyash Life Sciences Pvt Ltd,Generic API,Telangana,No,17.52,78.445,API / Complex Chemistry
+Viyash Life Sciences Pvt Ltd,Intermediates / Specialty Chemicals,Telangana,No,17.235,78.922,API / Bulk Drugs / Intermediates
+Viyash Life Sciences Pvt Ltd,Generic API,Telangana,No,17.224,79.034,API / GMP Manufacturing
+Viyash Life Sciences Pvt Ltd,R&D / CRO,Telangana,No,17.518,78.452,Medicinal Chemistry / Process R&D / Analytical
+Granules India Ltd,Formulations,Telangana,Yes,17.4486,78.3908,API / PFI / FDF / CDMO
+Granules India Ltd,Generic API,Telangana,Yes,17.568,78.271,"API Manufacturing (Paracetamol, Metformin, etc.)"
+Granules India Ltd,Intermediates / Specialty Chemicals,Telangana,Yes,17.518,78.451,API / Intermediates / PFIs
+Granules India Ltd,Intermediates / Specialty Chemicals,Telangana,Yes,17.562,78.445,PFI / Finished Dosage Intermediates
+Granules India Ltd,Formulations,Andhra Pradesh,Yes,17.686,83.05,API / Oncology / Formulations
+Granules India Ltd,Generic API,Telangana,Yes,17.569,78.272,Metformin / Guaifenesin / APIs
+Granules India Ltd,Formulations,Telangana,Yes,17.5,78.39,Process R&D / Formulation Development
+Tianish Laboratories Pvt Ltd,Intermediates / Specialty Chemicals,Telangana,No,17.4156,78.4347,API / Pharmaceutical Manufacturing / Intermediates
+Tianish Laboratories Pvt Ltd,Intermediates / Specialty Chemicals,Telangana,No,17.4156,78.4347,API / Bulk Drugs / Intermediates
+Tianish Laboratories Pvt Ltd,R&D / CRO,Telangana,No,17.4156,78.4347,R&D / Process Chemistry / Synthetic Route Design
+Tianish Laboratories Pvt Ltd,CDMO / CRAMS,Telangana,No,17.4156,78.4347,API Intermediates / Custom Synthesis
+Tianish Laboratories Pvt Ltd,Intermediates / Specialty Chemicals,Telangana,No,17.4156,78.4347,Pharma Intermediates / Specialty Chemicals
+Natco Pharma Limited,Admin / HQ / Support,Telangana,No,17.4129,78.4483,HQ
+Natco Pharma Limited,Formulations,Telangana,Yes,17.147,78.285,"FDF (Oral solids, injectables)"
+Natco Pharma Limited,Generic API,Telangana,Yes,17.54,78.27,API
+Natco Pharma Limited,Formulations,Andhra Pradesh,Yes,17.689,83.052,FDF (Oncology)
+Natco Pharma Limited,Formulations,Uttarakhand,Yes,30.327,78.033,FDF
+Natco Pharma Limited,Formulations,Telangana,Yes,16.576,79.315,FDF
+Natco Pharma Limited,Formulations,Assam,Yes,26.1445,91.7362,FDF
+Natco Pharma Limited,Intermediates / Specialty Chemicals,Tamil Nadu,Yes,13.17,80.27,API / Intermediates
+Natco Pharma Limited,R&D / CRO,Telangana,No,17.455,78.44,R&D
+Natco Pharma Limited,Intermediates / Specialty Chemicals,Andhra Pradesh,Yes,14.41,80.05,Agrochemicals
+Venkat Narayana Active Ingredients Pvt. Ltd.,Generic API,Tamil Nadu,No,13.0418,80.2364,API / Pharma Corporate Office
+Venkat Narayana Active Ingredients Pvt. Ltd.,Admin / HQ / Support,Tamil Nadu,No,13.0316,80.2407,Commercial / Sales / Admin
+Ami Organics Limited,Intermediates / Specialty Chemicals,Gujarat,Yes,21.0946,72.8876,API / Intermediates Manufacturing
+Ami Organics Limited,Intermediates / Specialty Chemicals,Gujarat,Yes,21.6266,73.0169,API / Intermediates Manufacturing
+Ami Organics Limited,Intermediates / Specialty Chemicals,Gujarat,Yes,21.7128,73.1485,Specialty Chemicals / Pharma Intermediates
+Excel Industries Limited,Admin / HQ / Support,Maharashtra,No,19.1364,72.8487,Head Office / Registered Office
+Excel Industries Limited,Intermediates / Specialty Chemicals,Maharashtra,Yes,18.4339,73.1196,Specialty Chemicals / Phosphorus Derivatives Plant
+Excel Industries Limited,Intermediates / Specialty Chemicals,Maharashtra,Yes,17.4533,73.3627,API / Specialty Chemicals / cGMP Facility
+Excel Industries Limited,Intermediates / Specialty Chemicals,Andhra Pradesh,Yes,17.6038,83.0042,Agro Intermediates / Specialty Chemicals (SEZ Export Unit)
+Excel Industries Limited,Other,Gujarat,Yes,21.7645,72.1519,Chemical Manufacturing Support Unit
+Tagoor Laboratories Pvt. Ltd,CDMO / CRAMS,Telangana,No,17.4475,78.3762,API / CDMO / Corporate Office
+Tagoor Laboratories Pvt. Ltd,Generic API,Andhra Pradesh,No,17.1166,81.679,API Manufacturing
+Tagoor Laboratories Pvt. Ltd,Intermediates / Specialty Chemicals,Andhra Pradesh,No,17.1166,81.679,Advanced Intermediates / KSMs
+Tagoor Laboratories Pvt. Ltd,Intermediates / Specialty Chemicals,Andhra Pradesh,No,17.5881,83.1268,API / Advanced Intermediates
+Anupam Rasayan India Ltd,Admin / HQ / Support,Gujarat,No,21.1702,72.8311,Corporate Office / Registered Office
+Anupam Rasayan India Ltd,Intermediates / Specialty Chemicals,Gujarat,Yes,21.0832,72.8857,Specialty Chemicals / Multi-step Synthesis
+Anupam Rasayan India Ltd,Intermediates / Specialty Chemicals,Gujarat,Yes,21.0835,72.8849,Life Science Specialty Chemicals
+Anupam Rasayan India Ltd,Intermediates / Specialty Chemicals,Gujarat,Yes,21.7124,73.1481,Agrochemicals / Intermediates
+Anupam Rasayan India Ltd,Intermediates / Specialty Chemicals,Gujarat,Yes,21.7126,73.1492,Advanced Intermediates / Specialty Chemicals
+Anupam Rasayan India Ltd,Intermediates / Specialty Chemicals,Gujarat,Yes,21.0829,72.8865,Fluorine & Non-Fluorine Chemistries
+Century Pharmaceuticals Ltd,Generic API,Gujarat,No,22.3072,73.1812,API / Pharma Manufacturing + Corporate Office
+Century Pharmaceuticals Ltd,Generic API,Gujarat,No,22.5022,73.4717,API / Pharmaceutical Manufacturing Plant
+Century Pharmaceuticals Ltd,Biotech / Fermentation,Gujarat,No,22.3072,73.1812,Biotechnology / Contract Research / R&D
+Clearsynth Labs Limited,CDMO / CRAMS,Maharashtra,No,19.1364,72.8336,"Research, CDMO, Corporate Office"
+Clearsynth Labs Limited,R&D / CRO,Telangana,No,17.4452,78.5759,R&D / Analytical / BioNMR / Synthesis Lab
+Clearsynth Labs Limited,CDMO / CRAMS,Telangana,No,17.4452,78.5759,Contract Research / Reference Standards / CDMO
+Concord Biotech Ltd,Biotech / Fermentation,Gujarat,Yes,23.02,72.54,Biopharma / Corporate Office
+Concord Biotech Ltd,Biotech / Fermentation,Gujarat,Yes,22.7369,72.4416,API / Fermentation Manufacturing
+Concord Biotech Ltd,Formulations,Gujarat,Yes,22.5219,72.3021,Formulation / OSD / Injectable (OSD + expansion)
+Concord Biotech Ltd,Biotech / Fermentation,Gujarat,Yes,22.7141,72.7459,API / Fermentation (Large Scale)
+Concord Biotech Ltd,Biotech / Fermentation,Gujarat,Yes,22.7369,72.4416,Biotechnology / Fermentation R&D
+Concord Biotech Ltd,Formulations,Gujarat,Yes,22.5219,72.3021,Formulation Development / CDMO
+Dishman Carbogen Amcis Ltd,CDMO / CRAMS,Gujarat,Yes,23.0225,72.5308,API / CRAMS / Corporate Office
+Dishman Carbogen Amcis Ltd,Intermediates / Specialty Chemicals,Gujarat,Yes,23.0596,72.6492,API / Quats / Fine Chemicals
+Dishman Carbogen Amcis Ltd,CDMO / CRAMS,Gujarat,Yes,22.8286,72.3682,HPAPI / API / CRAMS Manufacturing
+Dishman Carbogen Amcis Ltd,Intermediates / Specialty Chemicals,Gujarat,Yes,22.9571,72.6266,Specialty Chemicals / Intermediates
+CTX Lifesciences Pvt. Ltd.,CDMO / CRAMS,Gujarat,No,21.0878,72.8785,API / CDMO / Corporate Office
+CTX Lifesciences Pvt. Ltd.,Intermediates / Specialty Chemicals,Gujarat,No,21.0875,72.8779,API / Intermediates / KSM Manufacturing
+CTX Lifesciences Pvt. Ltd.,Generic API,Gujarat,No,21.0869,72.8792,API / Complex Chemistry Manufacturing
+CTX Lifesciences Pvt. Ltd.,Intermediates / Specialty Chemicals,Gujarat,No,21.0882,72.8768,Intermediates / cGMP Production
+CTX Lifesciences Pvt. Ltd.,R&D / CRO,Gujarat,No,21.0873,72.878,R&D / Pilot Scale / Kilo Lab
+Colourtex Group (Parent Company),Admin / HQ / Support,Gujarat,No,21.088,72.8775,ETP / Incineration / Utilities Support
+CTX Lifesciences Pvt. Ltd.,CDMO / CRAMS,Gujarat,No,21.0878,72.8785,API / CDMO / Corporate Office
+CTX Lifesciences Pvt. Ltd.,Intermediates / Specialty Chemicals,Gujarat,No,21.0875,72.8779,API / Intermediates / KSM Manufacturing
+CTX Lifesciences Pvt. Ltd.,Generic API,Gujarat,No,21.0869,72.8792,API / Complex Chemistry Manufacturing
+CTX Lifesciences Pvt. Ltd.,Intermediates / Specialty Chemicals,Gujarat,No,21.0882,72.8768,Intermediates / cGMP Production
+CTX Lifesciences Pvt. Ltd.,R&D / CRO,Gujarat,No,21.0873,72.878,R&D / Pilot Scale / Kilo Lab
+Colourtex Group (Parent Company),Admin / HQ / Support,Gujarat,No,21.088,72.8775,ETP / Incineration / Utilities Support
+Element Chemilink Pvt. Ltd.,CDMO / CRAMS,Gujarat,No,21.6003,73.0167,API / CDMO / Corporate Office
+Element Chemilink Pvt. Ltd.,Intermediates / Specialty Chemicals,Gujarat,No,21.6045,73.0181,API Intermediates / Bromine Chemistry
+Element Chemilink Pvt. Ltd.,Intermediates / Specialty Chemicals,Gujarat,No,21.6038,73.0192,Specialty Chemicals / PTC / Intermediates
+Element Chemilink Pvt. Ltd.,Generic API,Gujarat,No,21.6022,73.021,API / cGMP Manufacturing
+Parikh Group,Admin / HQ / Support,Gujarat,No,21.6015,73.0175,Waste Management / Utilities / EHS Infrastructure
+Zasya Labs Pvt. Ltd.,CDMO / CRAMS,Telangana,No,17.4941,78.3961,API / CDMO / Corporate Office
+Zasya Labs Pvt. Ltd.,Intermediates / Specialty Chemicals,Telangana,No,17.4938,78.3957,API / Intermediates Manufacturing
+Zasya Labs Pvt. Ltd.,Intermediates / Specialty Chemicals,Telangana,No,17.5112,78.4236,Advanced Intermediates / KSM Production
+Zasya Labs Pvt. Ltd.,R&D / CRO,Telangana,No,17.494,78.396,R&D / Process Optimization / Kilo Lab
+Zasya Labs Pvt. Ltd.,CDMO / CRAMS,Telangana,No,17.4935,78.3965,CDMO / Scale-up Facility
+Symbiotec Pharmalab Pvt. Ltd,CDMO / CRAMS,Madhya Pradesh,No,22.7242,75.887,Steroids / APIs / CDMO / Corporate Office
+Symbiotec Pharmalab Pvt. Ltd,Generic API,Madhya Pradesh,No,22.6123,75.6705,Steroidal APIs / Bulk Drugs
+Symbiotec Pharmalab Pvt. Ltd,Intermediates / Specialty Chemicals,Madhya Pradesh,No,22.6021,75.6632,Steroids / Hormonal APIs / Intermediates
+Symbiotec Pharmalab Pvt. Ltd,Generic API,Madhya Pradesh,No,22.6135,75.6721,High Potency Steroidal APIs
+Symbiotec Pharmalab Pvt. Ltd,R&D / CRO,Madhya Pradesh,No,22.6128,75.671,R&D / Process Chemistry / Scale-up
+Element Chemilink Pvt. Ltd,Intermediates / Specialty Chemicals,Gujarat,No,21.6003,73.0167,API Intermediates / Specialty Chemicals / Corporate Office
+Element Chemilink Pvt. Ltd,Intermediates / Specialty Chemicals,Gujarat,No,21.6045,73.0181,API Intermediates / Bromine Chemistry
+Element Chemilink Pvt. Ltd,Intermediates / Specialty Chemicals,Gujarat,No,21.6038,73.0192,Specialty Chemicals / PTC / Intermediates
+Element Chemilink Pvt. Ltd,Intermediates / Specialty Chemicals,Gujarat,No,21.6022,73.021,API / Advanced Intermediates
+Parikh Group,Admin / HQ / Support,Gujarat,No,21.6015,73.0175,Waste Management / Effluent Treatment / Utilities
+Shubham Speciality Products (India) Pvt. Ltd.,CDMO / CRAMS,Gujarat,No,23.0401,72.5128,Specialty Chemicals / CDMO / Corporate Office
+Shubham Speciality Products (India) Pvt. Ltd.,Intermediates / Specialty Chemicals,Gujarat,No,21.7324,72.5708,Specialty Chemicals / Intermediates / Performance Chemicals
+Shubham Speciality Products (India) Pvt. Ltd.,Intermediates / Specialty Chemicals,Gujarat,No,21.7331,72.5715,Advanced Intermediates / Specialty Chemicals
+Shubham Speciality Products (India) Pvt. Ltd.,R&D / CRO,Gujarat,No,21.7328,72.5702,R&D / Process Chemistry / Scale-up
+Shubham Speciality Products (India) Pvt. Ltd.,Admin / HQ / Support,Gujarat,No,21.7319,72.5699,Waste Management / Utilities / Safety Systems
+Chaturya Biotech Pvt. Ltd.,Biotech / Fermentation,Telangana,No,17.4939,78.3958,Biotechnology / APIs / CDMO / Corporate Office
+Chaturya Biotech Pvt. Ltd.,Biotech / Fermentation,Telangana,No,17.4941,78.3962,Biotechnology APIs / Fermentation / Intermediates
+Chaturya Biotech Pvt. Ltd.,Intermediates / Specialty Chemicals,Telangana,No,17.512,78.423,API / Advanced Intermediates
+Chaturya Biotech Pvt. Ltd.,R&D / CRO,Telangana,No,17.494,78.3959,R&D / Process Optimization / Kilo Lab
+Chaturya Biotech Pvt. Ltd.,Biotech / Fermentation,Telangana,No,17.4936,78.3964,CDMO / Pilot Scale Biotech Manufacturing
+Shilpa Medicare Ltd,CDMO / CRAMS,Karnataka,No,16.205,77.354,API / Oncology / CDMO / Corporate Office
+Shilpa Medicare Ltd,Intermediates / Specialty Chemicals,Karnataka,No,16.2008,77.3565,API / Oncology APIs / Intermediates
+Shilpa Medicare Ltd,Formulations,Karnataka,No,16.2015,77.358,Oncology Formulations / Injectables
+Shilpa Medicare Ltd,Biotech / Fermentation,Karnataka,No,16.2022,77.3591,High Potency APIs (HPAPI) / Biotech Products
+Shilpa Medicare Ltd,R&D / CRO,Karnataka,No,16.201,77.3572,R&D / Process Chemistry / Oncology Research
+SRF Limited,Intermediates / Specialty Chemicals,Haryana,Yes,28.4676,77.079,Specialty Chemicals / Fluorochemicals / Corporate Office
+SRF Limited,Intermediates / Specialty Chemicals,Gujarat,Yes,21.7332,72.5711,Fluorochemicals / Refrigerant Gases
+SRF Limited,Admin / HQ / Support,Rajasthan,No,28.2041,76.8378,Technical Textiles / Industrial Chemicals
+SRF Limited,Intermediates / Specialty Chemicals,Tamil Nadu,Yes,13.1718,80.2685,Refrigerant Gases / Fluorochemicals
+SRF Limited,Intermediates / Specialty Chemicals,Gujarat,Yes,21.5759,72.8004,Specialty Chemicals / Intermediates
+SRF Limited,R&D / CRO,Haryana,No,28.4389,77.0714,R&D / Process Development / Chemical Research
+SRF Limited,Admin / HQ / Support,Madhya Pradesh,No,23.1043,77.5246,Packaging Films / Technical Textiles
+Medilux Laboratories Pvt. Ltd.,CDMO / CRAMS,Madhya Pradesh,No,22.7255,75.8873,API / CDMO / Corporate Office
+Medilux Laboratories Pvt. Ltd.,Intermediates / Specialty Chemicals,Madhya Pradesh,No,22.6089,75.6714,API / Bulk Drugs / Intermediates
+Medilux Laboratories Pvt. Ltd.,Intermediates / Specialty Chemicals,Madhya Pradesh,No,22.6025,75.6638,APIs / Specialty Intermediates
+Medilux Laboratories Pvt. Ltd.,CDMO / CRAMS,Madhya Pradesh,No,22.6102,75.6689,Advanced Intermediates / CDMO
+Medilux Laboratories Pvt. Ltd.,R&D / CRO,Madhya Pradesh,No,22.6095,75.67,R&D / Process Chemistry / Scale-up
+SMS Pharmaceuticals Ltd,CDMO / CRAMS,Telangana,No,17.4503,78.3802,API / CDMO / Corporate Office
+SMS Pharmaceuticals Ltd,Intermediates / Specialty Chemicals,Telangana,No,17.5142,78.4469,API / Bulk Drugs / Intermediates
+SMS Pharmaceuticals Ltd,Intermediates / Specialty Chemicals,Telangana,No,17.5376,78.4071,APIs / Intermediates / Specialty Chemicals
+SMS Pharmaceuticals Ltd,Generic API,Telangana,No,17.5148,78.4475,API / Regulated Market Supply
+SMS Pharmaceuticals Ltd,R&D / CRO,Telangana,No,17.515,78.447,R&D / Process Chemistry / Kilo Lab
+Amsal Chem Pvt. Ltd.,CDMO / CRAMS,Maharashtra,Yes,19.1663,72.8459,Specialty Chemicals / CDMO / Corporate Office
+Amsal Chem Pvt. Ltd.,Intermediates / Specialty Chemicals,Maharashtra,Yes,19.8048,72.6923,Specialty Chemicals / Intermediates
+Amsal Chem Pvt. Ltd.,Intermediates / Specialty Chemicals,Maharashtra,Yes,19.8055,72.693,API Intermediates / Fine Chemicals
+Amsal Chem Pvt. Ltd.,CDMO / CRAMS,Maharashtra,Yes,19.8062,72.6918,Advanced Intermediates / Custom Synthesis
+Amsal Chem Pvt. Ltd.,R&D / CRO,Maharashtra,No,19.805,72.692,R&D / Process Chemistry / Scale-up
+Paushak Limited,Intermediates / Specialty Chemicals,Gujarat,Yes,22.3185,73.17,Specialty Chemicals / Phosgene Derivatives / Corporate Office
+Paushak Limited,Intermediates / Specialty Chemicals,Gujarat,Yes,22.3169,73.1692,Phosgene Derivatives / Specialty Intermediates
+Paushak Limited,Intermediates / Specialty Chemicals,Gujarat,Yes,22.3318,73.1265,Advanced Intermediates / Specialty Chemicals
+Paushak Limited,CDMO / CRAMS,Gujarat,Yes,22.3178,73.1685,Phosgene-based Intermediates / CDMO Products
+Alembic Group,R&D / CRO,Gujarat,No,22.3182,73.1705,R&D / Process Chemistry / Scale-up
+Rupal Chemicals Pvt. Ltd.,Intermediates / Specialty Chemicals,Gujarat,No,23.0398,72.5122,Specialty Chemicals / Intermediates / Corporate Office
+Rupal Chemicals Pvt. Ltd.,Intermediates / Specialty Chemicals,Gujarat,No,22.9581,72.6373,Specialty Chemicals / Bulk Intermediates
+Rupal Chemicals Pvt. Ltd.,Intermediates / Specialty Chemicals,Gujarat,No,22.9576,72.6368,Fine Chemicals / Intermediates
+Rupal Chemicals Pvt. Ltd.,CDMO / CRAMS,Gujarat,No,22.9585,72.638,Custom Synthesis / CDMO Products
+Rupal Chemicals Pvt. Ltd.,R&D / CRO,Gujarat,No,22.958,72.637,R&D / Process Chemistry / Scale-up
+Torrent Pharmaceuticals Ltd,Formulations,Gujarat,Yes,23.04,72.566,Pharma / API / Formulation / Corporate Office
+Torrent Pharmaceuticals Ltd,Formulations,Himachal Pradesh,Yes,30.9562,76.7914,Formulation / Tablets / Capsules
+Torrent Pharmaceuticals Ltd,Generic API,Gujarat,Yes,21.7325,72.5709,API / Bulk Drugs Manufacturing
+Torrent Pharmaceuticals Ltd,Intermediates / Specialty Chemicals,Gujarat,Yes,23.4889,72.4075,API / Intermediates Manufacturing
+Torrent Pharmaceuticals Ltd,Formulations,Sikkim,Yes,27.1728,88.5873,Formulation / Solid Dosage
+Torrent Pharmaceuticals Ltd,R&D / CRO,Gujarat,No,23.1005,72.6379,R&D / Drug Discovery / Process Development
+Madras Fluorine Private Limited,Intermediates / Specialty Chemicals,Tamil Nadu,No,13.0477,80.2548,Fluorochemicals / Specialty Chemicals / Corporate Office
+Madras Fluorine Private Limited,Intermediates / Specialty Chemicals,Tamil Nadu,No,13.1669,80.2617,Fluorochemicals / Hydrofluoric Acid / Inorganic Fluorides
+Madras Fluorine Private Limited,Intermediates / Specialty Chemicals,Tamil Nadu,No,11.748,79.768,Fluorine Derivatives / Specialty Chemicals
+Madras Fluorine Private Limited,Intermediates / Specialty Chemicals,Tamil Nadu,No,12.9271,79.3335,Fluorochemicals / Industrial Chemicals
+Madras Fluorine Private Limited,R&D / CRO,Tamil Nadu,No,13.1675,80.2622,R&D / Fluorine Chemistry / Process Optimization
+Vasudha Pharma Chem Ltd,CDMO / CRAMS,Telangana,Yes,17.5146,78.4465,API / CDMO / Corporate Office
+Vasudha Pharma Chem Ltd,Intermediates / Specialty Chemicals,Telangana,Yes,17.5152,78.4471,API / Intermediates / Bulk Drugs
+Vasudha Pharma Chem Ltd,Intermediates / Specialty Chemicals,Telangana,Yes,17.5372,78.4065,API / Advanced Intermediates
+Vasudha Pharma Chem Ltd,Intermediates / Specialty Chemicals,Telangana,Yes,17.5149,78.4478,Bulk Drugs / Intermediates
+Vasudha Pharma Chem Ltd,R&D / CRO,Telangana,No,17.515,78.4468,R&D / Process Chemistry / Scale-up
+Zydus Lifesciences Ltd,Biotech / Fermentation,Gujarat,Yes,23.1645,72.6362,Pharma / Biotech / Corporate Office
+Zydus Lifesciences Ltd,Formulations,Gujarat,Yes,22.8749,72.4301,API / Formulation / Injectables
+Zydus Lifesciences Ltd,Intermediates / Specialty Chemicals,Gujarat,Yes,21.6008,73.0165,API / Bulk Drugs / Intermediates
+Zydus Lifesciences Ltd,Formulations,Gujarat,Yes,22.8903,72.4108,APIs / Formulations / Export Manufacturing
+Zydus Lifesciences Ltd,Formulations,Gujarat,Yes,22.9198,72.4526,Solid Dosage / Tablets / Capsules
+Zydus Lifesciences Ltd,Formulations,Himachal Pradesh,Yes,30.9532,76.791,Formulation / Tablets / OSD
+Zydus Lifesciences Ltd,Biotech / Fermentation,Gujarat,Yes,23.0568,72.5169,Drug Discovery / Biologics / Process R&D
+Zydus Lifesciences Ltd,Biotech / Fermentation,Gujarat,Yes,22.882,72.4205,Biologics / Vaccines / Biosimilars
+ZCL Chemicals Ltd (Cohance Lifesciences),CDMO / CRAMS,Gujarat,Yes,23.0225,72.5714,Specialty Chemicals / CDMO / Corporate Office
+ZCL Chemicals Ltd,Intermediates / Specialty Chemicals,Gujarat,Yes,21.5519,72.9631,API Intermediates / Specialty Chemicals
+ZCL Chemicals Ltd,CDMO / CRAMS,Gujarat,Yes,21.5525,72.964,Advanced Intermediates / CDMO Products
+ZCL Chemicals Ltd,Intermediates / Specialty Chemicals,Gujarat,Yes,21.733,72.571,Specialty Chemicals / Export-Oriented Manufacturing
+ZCL Chemicals Ltd,Intermediates / Specialty Chemicals,Gujarat,Yes,21.6006,73.017,API / Intermediates / Fine Chemicals
+Cohance Lifesciences,R&D / CRO,Gujarat,No,23.0228,72.571,R&D / Process Chemistry / Scale-up
+Vadivarhe Speciality Chemicals Ltd,Intermediates / Specialty Chemicals,Maharashtra,No,19.949,73.7547,Specialty Chemicals / API Intermediates / Corporate Office
+Vadivarhe Speciality Chemicals Ltd,Intermediates / Specialty Chemicals,Maharashtra,No,19.7205,73.5612,API Intermediates / Specialty Chemicals
+Vadivarhe Speciality Chemicals Ltd,Intermediates / Specialty Chemicals,Maharashtra,No,19.9495,73.7552,Fine Chemicals / Intermediates
+Vadivarhe Speciality Chemicals Ltd,CDMO / CRAMS,Maharashtra,No,19.9502,73.756,Custom Synthesis / CDMO Products
+Vadivarhe Speciality Chemicals Ltd,R&D / CRO,Maharashtra,No,19.9492,73.7549,R&D / Process Chemistry / Scale-up
+Sun Pharmaceutical Industries Ltd.,Admin / HQ / Support,Maharashtra,No,19.1633,72.8577,Pharma / Global HQ
+Sun Pharmaceutical Industries Ltd.,Formulations,Gujarat,Yes,22.5019,73.4674,Formulation / Solid Dosage / Injectables
+Sun Pharmaceutical Industries Ltd.,Intermediates / Specialty Chemicals,Maharashtra,Yes,19.101,74.7412,API / Bulk Drugs / Intermediates
+Sun Pharmaceutical Industries Ltd.,Intermediates / Specialty Chemicals,Gujarat,Yes,21.5517,72.9635,API / Intermediates
+Sun Pharmaceutical Industries Ltd.,Formulations,Gujarat,Yes,22.3574,73.1856,Injectables / Sterile Manufacturing
+Sun Pharmaceutical Industries Ltd.,Formulations,Sikkim,Yes,27.2576,88.5921,Formulation / Solid Dosage
+Sun Pharmaceutical Industries Ltd.,Biotech / Fermentation,Gujarat,Yes,22.2984,73.1582,Drug Discovery / Innovation / Biologics
+SPC Life Sciences Pvt. Ltd.,CDMO / CRAMS,Maharashtra,No,19.1136,72.8697,API / CDMO / Specialty Chemicals / Corporate Office
+SPC Life Sciences Pvt. Ltd.,Intermediates / Specialty Chemicals,Maharashtra,No,19.8049,72.6918,API / Intermediates / Specialty Chemicals
+SPC Life Sciences Pvt. Ltd.,CDMO / CRAMS,Maharashtra,No,19.8056,72.6926,Advanced Intermediates / CDMO Products
+SPC Life Sciences Pvt. Ltd.,CDMO / CRAMS,Maharashtra,No,19.8063,72.6932,Fine Chemicals / Custom Synthesis
+SPC Life Sciences Pvt. Ltd.,R&D / CRO,Maharashtra,No,19.8052,72.692,R&D / Process Chemistry / Scale-up
+Sam Fine Chem Ltd,Intermediates / Specialty Chemicals,Maharashtra,No,19.0075,72.8277,Specialty Chemicals / Intermediates / Corporate Office
+Sam Fine Chem Ltd,Intermediates / Specialty Chemicals,Maharashtra,No,19.8047,72.6921,API Intermediates / Specialty Chemicals
+Sam Fine Chem Ltd,Intermediates / Specialty Chemicals,Maharashtra,No,19.8054,72.6928,Fine Chemicals / Intermediates
+Sam Fine Chem Ltd,CDMO / CRAMS,Maharashtra,No,19.806,72.6934,Custom Synthesis / CDMO Products
+Sam Fine Chem Ltd,R&D / CRO,Maharashtra,No,19.8051,72.6923,R&D / Process Chemistry / Scale-up
+Pharmaffiliates Analytics & Synthetics Pvt. Ltd.,CDMO / CRAMS,Uttar Pradesh,No,28.5851,77.3153,API / CDMO / Specialty Chemicals / Corporate Office
+Pharmaffiliates Analytics & Synthetics Pvt. Ltd.,Intermediates / Specialty Chemicals,Himachal Pradesh,No,30.9546,76.7922,API Intermediates / Specialty Chemicals
+Pharmaffiliates Analytics & Synthetics Pvt. Ltd.,Intermediates / Specialty Chemicals,Himachal Pradesh,No,30.9553,76.793,Bulk Drugs / Intermediates
+Pharmaffiliates Analytics & Synthetics Pvt. Ltd.,Intermediates / Specialty Chemicals,Himachal Pradesh,No,30.956,76.7941,High Potency APIs / Specialty Chemicals
+Pharmaffiliates Analytics & Synthetics Pvt. Ltd.,R&D / CRO,Uttar Pradesh,No,28.5858,77.3159,R&D / Process Chemistry / Analytical Development
+Pharmaffiliates Analytics & Synthetics Pvt. Ltd.,Other,Himachal Pradesh,No,30.955,76.7935,QC / Analytical Testing / Regulatory Support
+o2h Labs (o2h Group),CDMO / CRAMS,Gujarat,No,23.0865,72.5089,Drug Discovery / CDMO / Innovation / Corporate Office
+o2h Labs (o2h Group),R&D / CRO,Gujarat,No,23.0867,72.5092,Medicinal Chemistry / Drug Discovery / Hit-to-Lead
+o2h Labs (o2h Group),Other,Gujarat,No,23.0726,72.515,Biology / Assay Development / Screening
+o2h Labs (o2h Group),Admin / HQ / Support,Gujarat,No,23.0862,72.5095,Startup Incubation / Life Sciences Innovation
+Navin Fluorine International Ltd,Intermediates / Specialty Chemicals,Maharashtra,Yes,19.1466,72.9381,Fluorochemicals / Specialty Chemicals / Corporate Office
+Navin Fluorine International Ltd,Intermediates / Specialty Chemicals,Gujarat,Yes,21.1702,72.8311,Fluorochemicals / Refrigerant Gases / HF Derivatives
+Navin Fluorine International Ltd,Intermediates / Specialty Chemicals,Madhya Pradesh,Yes,22.9676,76.0534,Specialty Fluorochemicals / Intermediates
+Navin Fluorine International Ltd,Intermediates / Specialty Chemicals,Gujarat,Yes,21.7329,72.5712,Hydrofluoric Acid / Fluorine Derivatives
+Navin Fluorine International Ltd,R&D / CRO,Maharashtra,No,19.1152,72.8866,R&D / Process Development / Specialty Chemistry
+Neogen Chemicals Ltd,Intermediates / Specialty Chemicals,Maharashtra,Yes,19.2003,72.9731,Specialty Chemicals / Lithium Chemicals / Corporate Office
+Neogen Chemicals Ltd,Intermediates / Specialty Chemicals,Gujarat,Yes,22.2386,73.1752,Lithium Chemicals / Bromine Derivatives
+Neogen Chemicals Ltd,Intermediates / Specialty Chemicals,Gujarat,Yes,22.414,69.009,Bromine Chemistry / Specialty Intermediates
+Neogen Chemicals Ltd,Intermediates / Specialty Chemicals,Gujarat,Yes,22.2392,73.176,Lithium Salts / Advanced Materials
+Neogen Chemicals Ltd,R&D / CRO,Maharashtra,No,19.2008,72.9735,R&D / Lithium Chemistry / Process Development
+Navdeep Chemicals Pvt. Ltd,Intermediates / Specialty Chemicals,Gujarat,No,23.0262,72.5589,Specialty Chemicals / Intermediates / Corporate Office
+Navdeep Chemicals Pvt. Ltd,Intermediates / Specialty Chemicals,Gujarat,No,22.9583,72.6375,Specialty Chemicals / Bulk Intermediates
+Navdeep Chemicals Pvt. Ltd,Intermediates / Specialty Chemicals,Gujarat,No,22.9579,72.6369,Fine Chemicals / Intermediates
+Navdeep Chemicals Pvt. Ltd,CDMO / CRAMS,Gujarat,No,22.9587,72.6381,Custom Synthesis / CDMO Products
+Navdeep Chemicals Pvt. Ltd,R&D / CRO,Gujarat,No,22.9581,72.6372,R&D / Process Chemistry / Scale-up
+Mehta API Pvt. Ltd,Intermediates / Specialty Chemicals,Maharashtra,No,19.1197,72.8468,API / Intermediates / Corporate Office
+Mehta API Pvt. Ltd,Intermediates / Specialty Chemicals,Maharashtra,No,19.805,72.6922,API Intermediates / Bulk Drugs
+Mehta API Pvt. Ltd,CDMO / CRAMS,Maharashtra,No,19.8056,72.6929,Specialty Intermediates / CDMO Products
+Mehta API Pvt. Ltd,Intermediates / Specialty Chemicals,Maharashtra,No,19.8062,72.6935,Fine Chemicals / Advanced Intermediates
+Mehta API Pvt. Ltd,R&D / CRO,Maharashtra,No,19.8053,72.6925,R&D / Process Chemistry / Scale-up
+Kimia Biosciences Ltd,CDMO / CRAMS,Haryana,No,28.4117,77.042,API / CDMO / Corporate Office
+Kimia Biosciences Ltd,Intermediates / Specialty Chemicals,Himachal Pradesh,No,30.9552,76.7945,API / Bulk Drugs / Intermediates
+Kimia Biosciences Ltd,Intermediates / Specialty Chemicals,Himachal Pradesh,No,30.956,76.7951,Specialty Intermediates / API Production
+Kimia Biosciences Ltd,Intermediates / Specialty Chemicals,Himachal Pradesh,No,30.9548,76.7938,Bulk Drugs / Advanced Intermediates
+Kimia Biosciences Ltd,R&D / CRO,Himachal Pradesh,No,30.9555,76.794,R&D / Process Chemistry / Analytical Development
+Inventys Research Company Pvt. Ltd,CDMO / CRAMS,Maharashtra,No,19.1156,72.8716,CDMO / Specialty Chemicals / Corporate Office
+Inventys Research Company Pvt. Ltd,CDMO / CRAMS,Maharashtra,No,20.9409,79.0211,Specialty Chemicals / Intermediates / CDMO
+Inventys Research Company Pvt. Ltd,Intermediates / Specialty Chemicals,Maharashtra,No,20.9415,79.022,Fine Chemicals / Advanced Intermediates
+Inventys Research Company Pvt. Ltd,CDMO / CRAMS,Maharashtra,No,20.942,79.0225,Custom Synthesis / CDMO Products
+Inventys Research Company Pvt. Ltd,R&D / CRO,Maharashtra,No,20.9412,79.0215,R&D / Process Chemistry / Scale-up
+Synthimed Labs Pvt. Ltd,CDMO / CRAMS,Telangana,No,17.4123,78.4485,API / CDMO / Corporate Office
+Synthimed Labs Pvt. Ltd,Intermediates / Specialty Chemicals,Telangana,No,17.5145,78.4468,API / Bulk Drugs / Intermediates
+Synthimed Labs Pvt. Ltd,Intermediates / Specialty Chemicals,Telangana,No,17.5378,78.4062,API / Advanced Intermediates
+Synthimed Labs Pvt. Ltd,Intermediates / Specialty Chemicals,Telangana,No,17.5151,78.4473,Bulk Drugs / Intermediates
+Synthimed Labs Pvt. Ltd,R&D / CRO,Telangana,No,17.4128,78.448,R&D / Process Chemistry / Scale-up
+Hikal Ltd,CDMO / CRAMS,Maharashtra,Yes,19.0249,73.0405,API / Agrochemicals / CDMO / Corporate Office
+Hikal Ltd,Intermediates / Specialty Chemicals,Maharashtra,Yes,19.0653,73.1242,API / Bulk Drugs / Intermediates
+Hikal Ltd,Intermediates / Specialty Chemicals,Maharashtra,Yes,18.0783,73.4226,Agrochemicals / Specialty Chemicals
+Hikal Ltd,CDMO / CRAMS,Karnataka,Yes,12.7845,77.6412,API / CDMO / Intermediates
+Hikal Ltd,R&D / CRO,Maharashtra,No,19.066,73.1235,R&D / Process Chemistry / Discovery Support
+Dr. Reddy's Laboratories Ltd,Admin / HQ / Support,Telangana,No,17.4126,78.4392,HQ
+Dr. Reddy's Laboratories Ltd,Formulations,Telangana,Yes,17.5378,78.3651,FDF
+Dr. Reddy's Laboratories Ltd,Formulations,Telangana,Yes,17.539,78.364,FDF (Oncology)
+Dr. Reddy's Laboratories Ltd,Formulations,Telangana,Yes,17.5395,78.3658,FDF / Injectables
+Dr. Reddy's Laboratories Ltd,Generic API,Telangana,Yes,17.552,78.3,API
+Dr. Reddy's Laboratories Ltd,Generic API,Telangana,Yes,17.55,78.301,API
+Dr. Reddy's Laboratories Ltd,Generic API,Andhra Pradesh,Yes,18.311,83.782,API
+Dr. Reddy's Laboratories Ltd,Generic API,Telangana,Yes,17.09,79.24,API
+Dr. Reddy's Laboratories Ltd,Generic API,Andhra Pradesh,Yes,18.312,83.783,API
+Dr. Reddy's Laboratories Ltd,CDMO / CRAMS,Telangana,Yes,17.553,78.302,API/CDMO
+Dr. Reddy's Laboratories Ltd,Formulations,Andhra Pradesh,Yes,17.573,82.952,FDF
+Dr. Reddy's Laboratories Ltd,Generic API,Telangana,Yes,16.88,79.57,API
+Dr. Reddy's Laboratories Ltd,R&D / CRO,Telangana,No,17.538,78.368,R&D
+Aurobindo Pharma Ltd,Admin / HQ / Support,Telangana,No,17.44,78.44,HQ
+Aurobindo Pharma Ltd,Generic API,Telangana,Yes,17.53,78.238,API
+Aurobindo Pharma Ltd,Generic API,Telangana,Yes,17.54,78.27,API
+Aurobindo Pharma Ltd,Generic API,Telangana,Yes,17.58,78.27,API
+Aurobindo Pharma Ltd,Generic API,Telangana,Yes,16.78,78.15,API (Cephalosporins)
+Aurobindo Pharma Ltd,Generic API,Telangana,Yes,17.55,78.298,API
+Aurobindo Pharma Ltd,Formulations,Telangana,Yes,17.538,78.365,FDF
+Aurobindo Pharma Ltd,Formulations,Telangana,Yes,17.529,78.237,FDF
+Aurobindo Pharma Ltd,Formulations,Telangana,Yes,17.531,78.239,FDF (Oncology)
+Aurobindo Pharma Ltd,Formulations,Telangana,Yes,17.54,78.37,FDF
+Aurobindo Pharma Ltd,Generic API,Telangana,Yes,17.5295,78.2375,API
+Aurobindo Pharma Ltd,Intermediates / Specialty Chemicals,Telangana,Yes,17.39,78.95,Intermediates
+Aurobindo Pharma Ltd,Generic API,Andhra Pradesh,Yes,17.69,83.05,API
+Aurobindo Pharma Ltd,Formulations,Andhra Pradesh,Yes,13.91,79.88,FDF (Injectables)
+Aurobindo Pharma Ltd,R&D / CRO,Telangana,No,17.54,78.368,R&D
+Hetero Labs Ltd,Admin / HQ / Support,Telangana,No,17.4555,78.448,HQ
+Hetero Labs Ltd,Generic API,Telangana,Yes,17.496,78.45,API
+Hetero Labs Ltd,Generic API,Telangana,Yes,16.782,78.148,API
+Hetero Labs Ltd,Generic API,Andhra Pradesh,Yes,17.54,82.93,API
+Hetero Labs Ltd,Generic API,Telangana,Yes,17.6,78.31,API
+Hetero Drugs Ltd,Formulations,Himachal Pradesh,Yes,30.958,76.79,FDF
+Hetero Labs Ltd,Formulations,Telangana,Yes,16.783,78.149,FDF
+Hetero Labs Ltd,R&D / CRO,Telangana,No,17.454,78.45,R&D
+Glenmark Pharmaceuticals Ltd,Admin / HQ / Support,Maharashtra,No,18.975,72.809,HQ
+Glenmark Pharmaceuticals Ltd,Formulations,Goa,Yes,15.65,73.82,FDF
+Glenmark Pharmaceuticals Ltd,Formulations,Himachal Pradesh,Yes,30.955,76.792,FDF
+Glenmark Pharmaceuticals Ltd,Formulations,Madhya Pradesh,Yes,22.62,75.68,FDF (Oncology)
+Glenmark Life Sciences Ltd (now Nirma Group),Generic API,Gujarat,Yes,21.63,73.01,API
+Glenmark Life Sciences Ltd (now Nirma Group),Generic API,Gujarat,Yes,21.71,72.58,API / Intermediates
+Glenmark Life Sciences Ltd (now Nirma Group),Generic API,Maharashtra,Yes,17.82,75.65,API
+Glenmark Life Sciences Ltd (now Nirma Group),Generic API,Maharashtra,Yes,18.47,74.55,API
+Glenmark Pharmaceuticals Ltd,R&D / CRO,Maharashtra,No,19.11,73.02,R&D
+Ipca Laboratories Ltd,Admin / HQ / Support,Maharashtra,No,19.205,72.835,HQ
+Ipca Laboratories Ltd,Generic API,Madhya Pradesh,Yes,23.33,75.04,API
+Ipca Laboratories Ltd,Formulations,Maharashtra,Yes,20.27,73.01,FDF
+Ipca Laboratories Ltd,Formulations,Maharashtra,Yes,20.275,73.015,FDF
+Ipca Laboratories Ltd,Formulations,Maharashtra,Yes,19.85,75.34,FDF
+Ipca Laboratories Ltd,Formulations,Madhya Pradesh,Yes,22.61,75.67,FDF
+Ipca Laboratories Ltd,Generic API,Madhya Pradesh,Yes,22.962,76.054,API
+Macleods Pharmaceuticals Ltd,Admin / HQ / Support,Maharashtra,No,19.11,72.88,HQ
+Macleods Pharmaceuticals Ltd,Formulations,Maharashtra,Yes,20.43,72.84,FDF
+Macleods Pharmaceuticals Ltd,Formulations,Sikkim,Yes,27.3,88.5,FDF
+Macleods Pharmaceuticals Ltd,Formulations,Himachal Pradesh,Yes,30.96,76.795,FDF
+Macleods Pharmaceuticals Ltd,Generic API,Maharashtra,Yes,19.109,72.881,API
+Wockhardt Ltd,Admin / HQ / Support,Maharashtra,No,19.067,72.868,HQ
+Wockhardt Ltd,Generic API,Gujarat,Yes,21.632,73.008,API
+Wockhardt Ltd,Formulations,Maharashtra,Yes,19.88,75.37,FDF (Injectables)
+Wockhardt Ltd,Formulations,Maharashtra,Yes,19.852,75.342,FDF
+Wockhardt Ltd,Formulations,Maharashtra,Yes,20.428,72.842,FDF
+Strides Pharma Science Ltd,Admin / HQ / Support,Karnataka,No,12.887,77.597,HQ
+Strides Pharma Science Ltd,Formulations,Karnataka,Yes,12.8,77.68,FDF (OSD)
+Strides Pharma Science Ltd,Formulations,Puducherry,Yes,11.945,79.75,FDF
+Strides Pharma Science Ltd,Formulations,Tamil Nadu,Yes,12.86,80.0,FDF (Injectables)
+Strides Pharma Science Ltd,Generic API,Tamil Nadu,Yes,11.73,79.76,API
+Syngene International Ltd,Admin / HQ / Support,Karnataka,No,12.812,77.685,HQ
+Syngene International Ltd,R&D / CRO,Karnataka,No,12.8125,77.6855,CRO / Discovery
+Syngene International Ltd,CDMO / CRAMS,Karnataka,Yes,12.962,74.89,API / CDMO
+Syngene International Ltd,Biotech / Fermentation,Karnataka,Yes,12.813,77.686,Biologics / CDMO
+Syngene International Ltd,R&D / CRO,Telangana,No,17.54,78.58,R&D / Drug Discovery
+Mylan Laboratories Ltd (Viatris),Admin / HQ / Support,Telangana,No,17.428,78.406,HQ
+Mylan Laboratories Ltd (Viatris),Generic API,Telangana,Yes,17.531,78.238,API
+Mylan Laboratories Ltd (Viatris),Generic API,Telangana,Yes,17.551,78.3,API
+Mylan Laboratories Ltd (Viatris),Formulations,Telangana,Yes,16.78,78.15,FDF
+Mylan Laboratories Ltd (Viatris),Formulations,Karnataka,Yes,12.82,77.69,FDF
+Mylan Laboratories Ltd (Viatris),Generic API,Andhra Pradesh,Yes,17.692,83.051,API
+Aragen Life Sciences Pvt Ltd,Admin / HQ / Support,Telangana,No,17.42,78.55,HQ
+Aragen Life Sciences Pvt Ltd,R&D / CRO,Telangana,No,17.418,78.57,CRO / R&D
+Aragen Life Sciences Pvt Ltd,CDMO / CRAMS,Telangana,Yes,17.532,78.24,API / CDMO
+Aragen Life Sciences Pvt Ltd,Biotech / Fermentation,Karnataka,Yes,13.024,77.53,Biologics / CDMO
+Sequent Scientific Ltd (Viyash group),Admin / HQ / Support,Maharashtra,No,19.109,72.881,HQ
+Sequent Scientific Ltd (Viyash group),Generic API,Maharashtra,Yes,18.08,73.42,API
+Sequent Scientific Ltd (Viyash group),Generic API,Andhra Pradesh,Yes,17.69,83.05,API
+Sequent Scientific Ltd (Viyash group),Generic API,Maharashtra,Yes,19.82,72.74,API / Intermediates
+FDC Ltd,Admin / HQ / Support,Maharashtra,No,19.022,72.85,HQ
+FDC Ltd,Formulations,Maharashtra,Yes,18.44,73.12,FDF
+FDC Ltd,Generic API,Maharashtra,Yes,19.85,75.34,API / FDF
+JB Chemicals & Pharmaceuticals Ltd (KKR),Admin / HQ / Support,Maharashtra,No,19.022,72.826,HQ
+JB Chemicals & Pharmaceuticals Ltd (KKR),Formulations,Gujarat,Yes,21.67,72.97,FDF
+JB Chemicals & Pharmaceuticals Ltd (KKR),Formulations,Maharashtra,Yes,20.415,72.853,FDF
+JB Chemicals & Pharmaceuticals Ltd (KKR),Generic API,Gujarat,Yes,21.631,73.009,API
+USV Pvt Ltd,Admin / HQ / Support,Maharashtra,No,19.05,72.92,HQ
+USV Pvt Ltd,Formulations,Maharashtra,Yes,20.418,72.848,FDF
+USV Pvt Ltd,Generic API,Maharashtra,Yes,18.081,73.421,API
+Pfizer Ltd India,Admin / HQ / Support,Maharashtra,No,19.067,72.868,HQ
+Pfizer Ltd India,Formulations,Goa,Yes,15.37,73.96,FDF
+Pfizer Ltd India,Formulations,Andhra Pradesh,Yes,17.692,83.051,FDF (Injectables)
+Sanofi India Ltd,Admin / HQ / Support,Maharashtra,No,19.118,72.902,HQ
+Sanofi India Ltd,Formulations,Goa,Yes,15.368,73.958,FDF
+Sanofi India Ltd,Formulations,Gujarat,Yes,21.628,73.007,FDF
+GlaxoSmithKline Pharmaceuticals Ltd,Admin / HQ / Support,Maharashtra,No,19.005,72.819,HQ
+GlaxoSmithKline Pharmaceuticals Ltd,Formulations,Maharashtra,Yes,19.997,73.79,FDF
+GlaxoSmithKline Pharmaceuticals Ltd,Formulations,Karnataka,Yes,13.22,78.11,FDF
+GlaxoSmithKline Pharmaceuticals Ltd,Formulations,Sikkim,Yes,27.301,88.501,FDF
+Intas Pharmaceuticals Ltd,Admin / HQ / Support,Gujarat,No,23.054,72.518,HQ
+Intas Pharmaceuticals Ltd,Formulations,Gujarat,Yes,22.91,72.45,FDF
+Intas Pharmaceuticals Ltd,Formulations,Gujarat,Yes,22.93,72.47,FDF
+Intas Pharmaceuticals Ltd,Generic API,Gujarat,Yes,22.73,72.44,API
+Intas Pharmaceuticals Ltd,Biotech / Fermentation,Gujarat,Yes,22.97,72.39,Biologics / CDMO
+Cadila Pharmaceuticals Ltd,Admin / HQ / Support,Gujarat,No,22.73,72.44,HQ
+Cadila Pharmaceuticals Ltd,Formulations,Gujarat,Yes,22.732,72.442,FDF
+Cadila Pharmaceuticals Ltd,Generic API,Gujarat,Yes,21.63,73.008,API
+Cadila Pharmaceuticals Ltd,Biotech / Fermentation,Gujarat,Yes,22.731,72.441,Biologics / Vaccines
+Emcure Pharmaceuticals Ltd,Admin / HQ / Support,Maharashtra,No,18.591,73.739,HQ
+Emcure Pharmaceuticals Ltd,Generic API,Maharashtra,Yes,18.472,74.552,API
+Emcure Pharmaceuticals Ltd,Formulations,Maharashtra,Yes,18.592,73.74,FDF
+Emcure Pharmaceuticals Ltd,Formulations,Gujarat,Yes,22.97,72.39,FDF
+Sai Life Sciences Ltd,Admin / HQ / Support,Telangana,No,17.54,78.58,HQ
+Sai Life Sciences Ltd,R&D / CRO,Telangana,No,17.541,78.581,CRO / Drug Discovery
+Sai Life Sciences Ltd,CDMO / CRAMS,Karnataka,Yes,17.91,77.52,API / CDMO
+Sai Life Sciences Ltd,CDMO / CRAMS,Telangana,Yes,17.53,78.24,API / CDMO
+Aurigene Pharmaceutical Services Ltd (DRL group),Admin / HQ / Support,Telangana,No,17.48,78.35,HQ
+Aurigene Pharmaceutical Services Ltd (DRL group),R&D / CRO,Karnataka,No,12.84,77.67,CRO / Drug Discovery
+Aurigene Pharmaceutical Services Ltd (DRL group),CDMO / CRAMS,Telangana,Yes,17.552,78.301,API / CDMO
+Anthem Biosciences Ltd,Admin / HQ / Support,Karnataka,No,12.81,77.69,HQ
+Anthem Biosciences Ltd,CDMO / CRAMS,Karnataka,Yes,12.811,77.6905,API / CDMO / Fermentation
+Anthem Biosciences Ltd,R&D / CRO,Karnataka,No,12.812,77.691,Process R&D / CDMO
+Anthem Biosciences Ltd,CDMO / CRAMS,Karnataka,Yes,12.76,77.45,API / CDMO
+Symed Labs Ltd,Admin / HQ / Support,Telangana,No,17.457,78.4485,HQ
+Symed Labs Ltd,Generic API,Telangana,Yes,17.55,78.295,API
+Symed Labs Ltd,Generic API,Telangana,Yes,17.32,78.92,API (Oncology)
+Saraca Laboratories Ltd,Admin / HQ / Support,Telangana,No,17.417,78.457,HQ
+Saraca Laboratories Ltd,Generic API,Telangana,Yes,17.595,78.305,API
+Shodhana Laboratories Ltd,Admin / HQ / Support,Telangana,No,17.531,78.24,HQ
+Shodhana Laboratories Ltd,Generic API,Telangana,Yes,17.532,78.241,API
+Suraksha Pharma Pvt Ltd,Admin / HQ / Support,Telangana,No,17.428,78.407,HQ
+Suraksha Pharma Pvt Ltd,Generic API,Telangana,Yes,17.5305,78.239,API (Cephalosporins)
+Sandoz Pvt Ltd (Novartis),Admin / HQ / Support,Maharashtra,No,19.004,72.82,HQ
+Sandoz Pvt Ltd (Novartis),Generic API,Telangana,Yes,17.545,78.575,API
+Sandoz Pvt Ltd (Novartis),Formulations,Maharashtra,Yes,19.21,72.98,FDF
+Marksans Pharma Ltd,Admin / HQ / Support,Maharashtra,No,19.138,72.82,HQ
+Marksans Pharma Ltd,Formulations,Goa,Yes,15.37,73.96,FDF (OSD / Liquid)
+Marksans Pharma Ltd,Formulations,Goa,Yes,15.371,73.961,FDF
+Indoco Remedies Ltd,Admin / HQ / Support,Maharashtra,No,19.07,72.855,HQ
+Indoco Remedies Ltd,Formulations,Goa,Yes,15.369,73.9585,FDF
+Indoco Remedies Ltd,Formulations,Goa,Yes,15.3695,73.959,FDF (Sterile / Injectables)
+Indoco Remedies Ltd,Generic API,Maharashtra,Yes,18.98,73.23,API
+Indoco Remedies Ltd,Formulations,Himachal Pradesh,Yes,30.958,76.79,FDF
+Unichem Laboratories Ltd,Admin / HQ / Support,Maharashtra,No,19.133,72.84,HQ
+Unichem Laboratories Ltd,Generic API,Madhya Pradesh,Yes,22.615,75.675,API
+Unichem Laboratories Ltd,Generic API,Maharashtra,Yes,18.44,73.12,API
+Unichem Laboratories Ltd,Formulations,Goa,Yes,15.41,74.01,FDF
+Unichem Laboratories Ltd,Formulations,Uttar Pradesh,Yes,28.68,77.37,FDF
+Encube Ethicals Pvt Ltd,Admin / HQ / Support,Maharashtra,No,19.015,72.86,HQ
+Encube Ethicals Pvt Ltd,Formulations,Goa,Yes,15.37,73.9595,FDF (Semi-solids / Topicals)
+Encube Ethicals Pvt Ltd,R&D / CRO,Maharashtra,No,19.016,72.861,Formulation R&D
+RPG Life Sciences Ltd (RPG group),Admin / HQ / Support,Maharashtra,No,19.005,72.819,HQ
+RPG Life Sciences Ltd (RPG group),Generic API,Gujarat,Yes,21.631,73.009,API / Fermentation
+RPG Life Sciences Ltd (RPG group),Formulations,Maharashtra,Yes,19.07,73.02,FDF
+Eris Lifesciences Ltd,Admin / HQ / Support,Gujarat,No,23.014,72.505,HQ
+Eris Lifesciences Ltd,Formulations,Assam,Yes,26.11,91.78,FDF
+Eris Lifesciences Ltd,Formulations,Gujarat,Yes,21.08,72.88,FDF
+Mangalam Drugs and Organics Ltd,Admin / HQ / Support,Maharashtra,No,18.97,72.825,HQ
+Mangalam Drugs and Organics Ltd,Generic API,Gujarat,Yes,20.37,72.92,API
+Mangalam Drugs and Organics Ltd,Generic API,Gujarat,Yes,20.371,72.921,API (Antimalarials)
+Fermenta Biotech Ltd (DIL group),Admin / HQ / Support,Maharashtra,No,19.216,72.975,HQ
+Fermenta Biotech Ltd (DIL group),Generic API,Himachal Pradesh,Yes,31.958,77.108,API (Vitamin D3)
+Fermenta Biotech Ltd (DIL group),Generic API,Gujarat,Yes,21.715,72.585,API / Specialty Chemicals
+Apotex Pharmachem India Pvt Ltd,Admin / HQ / Support,Karnataka,No,12.812,77.685,HQ
+Apotex Pharmachem India Pvt Ltd,Generic API,Karnataka,Yes,12.8125,77.6855,API
+Astron Research Ltd (Lambda Therapeutic Research),Admin / HQ / Support,Gujarat,No,23.042,72.648,HQ
+Astron Research Ltd (Lambda Therapeutic Research),R&D / CRO,Gujarat,No,23.0425,72.6485,CRO / CDMO
+Arch Pharmalabs Ltd,Admin / HQ / Support,Maharashtra,No,19.205,73.19,HQ
+Arch Pharmalabs Ltd,Generic API,Maharashtra,Yes,19.82,72.74,API / Intermediates
+Arch Pharmalabs Ltd,Generic API,Maharashtra,Yes,19.2055,73.1905,API
+NGL Fine-Chem Ltd,Admin / HQ / Support,Maharashtra,No,19.007,72.829,HQ
+NGL Fine-Chem Ltd,Generic API,Maharashtra,Yes,19.821,72.741,API (Veterinary)
+Zenara Pharma Pvt Ltd (LM Pharma),Admin / HQ / Support,Andhra Pradesh,No,17.689,83.049,HQ
+Zenara Pharma Pvt Ltd (LM Pharma),Formulations,Andhra Pradesh,Yes,17.6895,83.0495,FDF
